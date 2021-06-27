@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/exsqlaim-mode-20170607.1003/exsqlaim-mode.el  -*- no-byte-compile: t -*-
+(define-package "exsqlaim-mode" "20170607.1003" "Use variables inside sql queries" '((s "1.10.0")) :commit "a2e0a62ec8b87193d8eaa695774bfd689324b06c" :authors '(("Ahmad Nazir Raja" . "ahmadnazir@gmail.com")) :maintainer '("Ahmad Nazir Raja" . "ahmadnazir@gmail.com") :url "https://github.com/ahmadnazir/exsqlaim-mode")

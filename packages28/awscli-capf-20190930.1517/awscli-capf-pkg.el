@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/awscli-capf-20190930.1517/awscli-capf.el  -*- no-byte-compile: t -*-
+(define-package "awscli-capf" "20190930.1517" "Completion at point function for the AWS CLI" '((emacs "26")) :commit "eadfb26b35802ae8164565581e4a9c4d0280a7b5" :authors '(("Sebastian Monia" . "smonia@outlook.com")) :maintainer '("Sebastian Monia" . "smonia@outlook.com") :keywords '("tools" "convenience" "abbrev") :url "https://github.com/sebasmonia/awscli-capf.git")

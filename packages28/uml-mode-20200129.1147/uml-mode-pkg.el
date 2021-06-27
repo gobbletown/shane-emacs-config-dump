@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/uml-mode-20200129.1147/uml-mode.el  -*- no-byte-compile: t -*-
+(define-package "uml-mode" "20200129.1147" "Minor mode for ascii uml sequence diagrams" '((emacs "24.4") (seq "0")) :commit "4c37ac1c4424b2313cd8f16ba48a98a4cc214200" :authors '(("Ian Martins" . "ianxm@jhu.edu")) :maintainer '("Ian Martins" . "ianxm@jhu.edu") :keywords '("docs") :url "http://github.com/ianxm/emacs-uml")

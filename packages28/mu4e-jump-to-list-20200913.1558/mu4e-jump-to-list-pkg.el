@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/mu4e-jump-to-list-20200913.1558/mu4e-jump-to-list.el  -*- no-byte-compile: t -*-
+(define-package "mu4e-jump-to-list" "20200913.1558" "mu4e jump-to-list extension" '((emacs "24.4") (cl-lib "0.5")) :commit "a9a3a1d371451d12e0ec24e456c7d90ccacd9cdd" :authors '(("Yuri D'Elia" . "wavexx@thregr.org")) :maintainer '("Yuri D'Elia" . "wavexx@thregr.org") :keywords '("mu4e" "mail" "convenience") :url "https://gitlab.com/wavexx/mu4e-jump-to-list.el")

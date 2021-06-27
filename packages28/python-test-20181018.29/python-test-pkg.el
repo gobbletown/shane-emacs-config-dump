@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/python-test-20181018.29/python-test.el  -*- no-byte-compile: t -*-
+(define-package "python-test" "20181018.29" "Python testing integration" '((emacs "25.1")) :commit "f899975b133539e19ba822e4b0bfd1a28572967e" :authors '(("Mario Rodas" . "marsam@users.noreply.github.com")) :maintainer '("Mario Rodas" . "marsam@users.noreply.github.com") :keywords '("convenience" "tools" "processes") :url "https://github.com/emacs-pe/python-test.el")

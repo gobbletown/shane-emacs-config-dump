@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/bts-github-20170401.1249/bts-github.el  -*- no-byte-compile: t -*-
+(define-package "bts-github" "20170401.1249" "A plugin of bts.el for GitHub" '((bts "0.0.1") (gh "0.8.2")) :commit "ef2cf9202dc2128e5efdb613bfde9276a8cd95ad" :authors '(("Hiroaki Otsu" . "ootsuhiroaki@gmail.com")) :maintainer '("Hiroaki Otsu" . "ootsuhiroaki@gmail.com") :keywords '("convenience" "git" "github") :url "https://github.com/aki2o/emacs-bts-github")

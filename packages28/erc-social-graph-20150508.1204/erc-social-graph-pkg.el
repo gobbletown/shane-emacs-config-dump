@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/erc-social-graph-20150508.1204/erc-social-graph.el  -*- no-byte-compile: t -*-
+(define-package "erc-social-graph" "20150508.1204" "A social network graph module for ERC." 'nil :commit "e6ef3416a1c5064054bf054d9f0c1c7bf54a9cd0" :authors '(("Vibhav Pant" . "vibhavp@gmail.com")) :maintainer '("Vibhav Pant" . "vibhavp@gmail.com") :keywords '("erc" "graph") :url "https://github.com/vibhavp/erc-social-graph")

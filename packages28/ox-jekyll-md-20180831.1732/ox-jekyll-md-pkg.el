@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/ox-jekyll-md-20180831.1732/ox-jekyll-md.el  -*- no-byte-compile: t -*-
+(define-package "ox-jekyll-md" "20180831.1732" "Export Jekyll on Markdown articles using org-mode." 'nil :commit "ff7b81733354c2b427293e531bb51647fa84fc88" :authors '(("Elsa Gonsiorowski" . "gonsie@me.com")) :maintainer '("Elsa Gonsiorowski" . "gonsie@me.com") :keywords '("org" "jekyll"))

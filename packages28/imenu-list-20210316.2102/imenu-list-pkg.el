@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/imenu-list-20210316.2102/imenu-list.el  -*- no-byte-compile: t -*-
+(define-package "imenu-list" "20210316.2102" "Show imenu entries in a separate buffer" '((cl-lib "0.5")) :commit "b50222378412fbe321622a84cb2b036e084c697a" :authors '(("Bar Magal (2015)")) :maintainer '("Bar Magal (2015)") :url "https://github.com/bmag/imenu-list")

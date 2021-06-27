@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/code-library-20160426.1218/code-library.el  -*- no-byte-compile: t -*-
+(define-package "code-library" "20160426.1218" "use org-mode to collect code snippets" '((gist "1.3.1")) :commit "32d59c5c845d6dbdda18f9bd1c03a58d55417fc5" :authors '(("DarkSun" . "lujun9972@gmail.com")) :maintainer '("DarkSun" . "lujun9972@gmail.com") :keywords '("lisp" "code"))

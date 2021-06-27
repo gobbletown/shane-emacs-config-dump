@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/espuds-20160905.1300/espuds.el  -*- no-byte-compile: t -*-
+(define-package "espuds" "20160905.1300" "Ecukes step definitions" '((s "1.7.0") (dash "2.2.0") (f "0.12.1")) :commit "78fc53feaf77a98d63894cd410faee2a18107b00" :authors '(("Johan Andersson" . "johan.rejeep@gmail.com")) :maintainer '("Johan Andersson" . "johan.rejeep@gmail.com") :keywords '("test") :url "http://github.com/ecukes/espuds")

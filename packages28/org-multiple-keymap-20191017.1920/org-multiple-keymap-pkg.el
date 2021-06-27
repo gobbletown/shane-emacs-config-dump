@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-multiple-keymap-20191017.1920/org-multiple-keymap.el  -*- no-byte-compile: t -*-
+(define-package "org-multiple-keymap" "20191017.1920" "Set keymap to elements, such as timestamp and priority." '((org-plus-contrib "8.2.4") (emacs "24") (cl-lib "0.5")) :commit "4eb8aa0aada012b2346cc7f0c55e07783141a2c3" :authors '(("myuhe <yuhei.maeda_at_gmail.com>")) :maintainer '("myuhe") :keywords '("convenience" "org-mode") :url "https://github.com/myuhe/org-multiple-keymap.el")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/company-org-block-20210607.1202/company-org-block.el  -*- no-byte-compile: t -*-
+(define-package "company-org-block" "20210607.1202" "Org blocks company backend" '((emacs "25.1") (company "0.8.0") (org-plus-contrib "9.2.0")) :commit "e2742dea77b356ee11a1200263d48eed79f5fe43" :authors '(("Alvaro Ramirez")) :maintainer '("Alvaro Ramirez") :url "https://github.com/xenodium/company-org-block")

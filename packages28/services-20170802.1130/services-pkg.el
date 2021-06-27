@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/services-20170802.1130/services.el  -*- no-byte-compile: t -*-
+(define-package "services" "20170802.1130" "Services database access functions." '((cl-lib "0.5")) :commit "04c7986041a33dfa0b0ae57c7d6fbd600548c596" :authors '(("Dave Pearson" . "davep@davep.org")) :maintainer '("Dave Pearson" . "davep@davep.org") :keywords '("convenience" "net" "services") :url "https://github.com/davep/services.el")

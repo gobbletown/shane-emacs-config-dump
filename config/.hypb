@@ -1,0 +1,4 @@
+
+"my-hyperbole.el"
+("say_hi" nil nil eval-elisp ((ns "hi")) "shane@megn" "20200911:07:53:40" nil nil)
+("testing" nil nil www-url ("https://anya.netlify.app/") "shane@megn" "20200911:02:32:08" nil nil)

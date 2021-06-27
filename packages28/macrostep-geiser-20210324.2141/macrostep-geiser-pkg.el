@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/macrostep-geiser-20210324.2141/macrostep-geiser.el  -*- no-byte-compile: t -*-
+(define-package "macrostep-geiser" "20210324.2141" "Macrostep for `geiser'" '((emacs "24.4") (macrostep "0.9") (geiser "0.12")) :commit "8600fca05fd12a2e0ffe63238ddbfcb37c285dac" :authors '(("Nikita Bloshchanevich")) :maintainer '("Nikita Bloshchanevich") :keywords '("languages" "scheme") :url "https://github.com/nbfalcon/macrostep-geiser")

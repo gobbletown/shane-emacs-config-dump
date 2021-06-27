@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/mermaid-mode-20200819.1759/mermaid-mode.el  -*- no-byte-compile: t -*-
+(define-package "mermaid-mode" "20200819.1759" "major mode for working with mermaid graphs" '((f "0.20.0") (emacs "25.3")) :commit "6ec97ab934023a8aa094705bb1c9803fd85d24c1" :authors '(("Adrien Brochard")) :maintainer '("Adrien Brochard") :keywords '("mermaid" "graphs" "tools" "processes") :url "https://github.com/abrochard/mermaid-mode")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/sotlisp-20190211.2026/sotlisp.el  -*- no-byte-compile: t -*-
+(define-package "sotlisp" "20190211.2026" "Write lisp at the speed of thought." '((emacs "24.1")) :commit "ed2356a325c7a4a88ec1bd31381c8666e8997e97" :authors '(("Artur Malabarba" . "emacs@endlessparentheses.com")) :maintainer '("Artur Malabarba" . "emacs@endlessparentheses.com") :keywords '("convenience" "lisp") :url "https://github.com/Malabarba/speed-of-thought-lisp")

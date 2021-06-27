@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/mc-calc-20200420.1836/mc-calc.el  -*- no-byte-compile: t -*-
+(define-package "mc-calc" "20200420.1836" "Combine multiple-cursors and calc" '((emacs "24.4") (multiple-cursors "1.2.1")) :commit "74a046a5728919a4d1135ca62738326b0dde278c" :authors '((nil . "Frank Roland hatheroldev@fgmail.com>")) :maintainer '(nil . "Frank Roland hatheroldev@fgmail.com>") :keywords '("convenience") :url "https://github.com/hatheroldev/mc-calc")

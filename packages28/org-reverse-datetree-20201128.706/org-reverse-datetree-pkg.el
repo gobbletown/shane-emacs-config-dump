@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-reverse-datetree-20201128.706/org-reverse-datetree.el  -*- no-byte-compile: t -*-
+(define-package "org-reverse-datetree" "20201128.706" "Create reverse date trees in org-mode" '((emacs "26.1") (dash "2.12") (org-plus-contrib "9.3")) :commit "be24274dd62cd3c586cbea99c8f73db251bf319d" :authors '(("Akira Komamura" . "akira.komamura@gmail.com")) :maintainer '("Akira Komamura" . "akira.komamura@gmail.com") :keywords '("outlines") :url "https://github.com/akirak/org-reverse-datetree")

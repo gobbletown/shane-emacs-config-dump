@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/gnus-desktop-notify-20180623.1538/gnus-desktop-notify.el  -*- no-byte-compile: t -*-
+(define-package "gnus-desktop-notify" "20180623.1538" "Gnus Desktop Notification global minor mode" '((gnus "1.0")) :commit "b438feb59136621a8ab979f0e2784f7002398d06" :authors '(("Yuri D'Elia <wavexx AT thregr.org>")) :maintainer '("Yuri D'Elia <wavexx AT thregr.org>") :url "http://www.thregr.org/~wavexx/software/gnus-desktop-notify.el/")

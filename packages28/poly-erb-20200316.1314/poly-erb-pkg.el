@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/poly-erb-20200316.1314/poly-erb.el  -*- no-byte-compile: t -*-
+(define-package "poly-erb" "20200316.1314" "Polymode for erb" '((emacs "25") (polymode "0.2.2")) :commit "56c744b8d87d8cbe0aba2696d4e8525afc4aa0e8" :authors '(("Siavash Sajjadi and Vitalie Spinu")) :maintainer '("Vitalie Spinu") :keywords '("emacs") :url "https://github.com/polymode/poly-erb")

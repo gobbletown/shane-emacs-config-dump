@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/ox-slack-20200108.1546/ox-slack.el  -*- no-byte-compile: t -*-
+(define-package "ox-slack" "20200108.1546" "Slack Exporter for org-mode" '((emacs "24") (org-plus-contrib "9.1.4") (ox-gfm "1.0")) :commit "89cedb9da6ea08b78bc1fe77d6a39aa078172c1e" :authors '(("Matt Price")) :maintainer '("Matt Price") :keywords '("org" "slack" "outlines") :url "https://github.com/titaniumbones/ox-slack")

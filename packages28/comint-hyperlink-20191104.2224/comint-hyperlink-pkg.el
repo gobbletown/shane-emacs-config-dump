@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/comint-hyperlink-20191104.2224/comint-hyperlink.el  -*- no-byte-compile: t -*-
+(define-package "comint-hyperlink" "20191104.2224" "Create hyperlinks in comint for SGR URL control sequences" '((emacs "24.3")) :commit "a7878825788ff6b9d6b8a5adf0214a028bad895e" :authors '(("Matthew Bauer" . "mjbauer95@gmail.com")) :maintainer '("Matthew Bauer" . "mjbauer95@gmail.com") :keywords '("comint" "shell" "processes" "hypermedia" "terminals") :url "https://github.com/matthewbauer/comint-hyperlink")

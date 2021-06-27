@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/sql-presto-20190113.1742/sql-presto.el  -*- no-byte-compile: t -*-
+(define-package "sql-presto" "20190113.1742" "No description available." '((emacs "24.4")) :commit "bcda455e300a1af75c7bb805882329bc844703b2" :authors '(("Katherine Cox-Buday" . "cox.katherine.e@gmail.com")) :maintainer '("Katherine Cox-Buday" . "cox.katherine.e@gmail.com") :keywords '("sql" "presto" "database"))

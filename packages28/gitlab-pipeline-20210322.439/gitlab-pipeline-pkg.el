@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/gitlab-pipeline-20210322.439/gitlab-pipeline.el  -*- no-byte-compile: t -*-
+(define-package "gitlab-pipeline" "20210322.439" "Get infomation about Gitlab pipelines" '((emacs "25.1") (ghub "3.3.0")) :commit "089400ac1d411a2b58cf1a64f28911079d5c898f" :authors '(("Giap Tran" . "txgvnn@gmail.com")) :maintainer '("Giap Tran" . "txgvnn@gmail.com") :keywords '("comm" "tools" "git") :url "https://github.com/TxGVNN/gitlab-pipeline")

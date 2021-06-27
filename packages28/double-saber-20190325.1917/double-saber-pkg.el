@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/double-saber-20190325.1917/double-saber.el  -*- no-byte-compile: t -*-
+(define-package "double-saber" "20190325.1917" "Narrow and delete in search buffers." '((emacs "24.4")) :commit "93d9b1ec833a871bde2fd0f78abc269872808048" :authors '(("Daniel Ting" . "deep.paren.12@gmail.com")) :maintainer '("Daniel Ting" . "deep.paren.12@gmail.com") :keywords '("double-saber" "narrow" "delete" "sort" "tools" "convenience" "matching") :url "https://github.com/dp12/double-saber.git")

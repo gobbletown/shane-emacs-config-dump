@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/bshell-20201219.139/bshell.el  -*- no-byte-compile: t -*-
+(define-package "bshell" "20201219.139" "Manage and track multiple inferior shells" '((emacs "26") (buffer-manage "0.11")) :commit "469c841f19f28c271b4f172b40f3f9ca830254df" :authors '(("Paul Landes")) :maintainer '("Paul Landes") :keywords '("unix" "interactive" "shell" "management") :url "https://github.com/plandes/bshell")

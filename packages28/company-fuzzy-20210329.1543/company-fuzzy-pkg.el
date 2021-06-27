@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/company-fuzzy-20210329.1543/company-fuzzy.el  -*- no-byte-compile: t -*-
+(define-package "company-fuzzy" "20210329.1543" "Fuzzy matching for `company-mode'" '((emacs "24.4") (company "0.8.12") (s "1.12.0") (ht "2.0")) :commit "a90e45ee69bac18205418aea68d981c12835eb81" :authors '(("Shen, Jen-Chieh" . "jcs090218@gmail.com")) :maintainer '("Shen, Jen-Chieh" . "jcs090218@gmail.com") :url "https://github.com/jcs-elpa/company-fuzzy")

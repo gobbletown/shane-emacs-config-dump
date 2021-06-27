@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/veri-kompass-20200213.934/veri-kompass.el  -*- no-byte-compile: t -*-
+(define-package "veri-kompass" "20200213.934" "verilog codebase navigation facility" '((emacs "25") (cl-lib "0.5") (org-plus-contrib "8.2.0")) :commit "271903cdf92db05898ee7cffb65641f30fa08280" :maintainer '(nil . "andrea_corallo@yahoo.it") :keywords '("languages" "extensions" "verilog" "hardware" "rtl") :url "https://gitlab.com/koral/veri-kompass")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/ryo-modal-20201117.1903/ryo-modal.el  -*- no-byte-compile: t -*-
+(define-package "ryo-modal" "20201117.1903" "Roll your own modal mode" '((emacs "25.1")) :commit "f14479e277ac7db75bf6756e0589941f84fdd749" :authors '(("Erik Sjöstrand" . "sjostrand.erik@gmail.com")) :maintainer '("Erik Sjöstrand" . "sjostrand.erik@gmail.com") :keywords '("convenience" "modal" "keys") :url "http://github.com/Kungsgeten/ryo-modal")

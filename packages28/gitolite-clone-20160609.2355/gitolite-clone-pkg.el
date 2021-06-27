@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/gitolite-clone-20160609.2355/gitolite-clone.el  -*- no-byte-compile: t -*-
+(define-package "gitolite-clone" "20160609.2355" "Clone gitolite repositories from a completing list" '((dash "2.10.0") (s "1.9.0") (pcache "0.3.1") (emacs "24")) :commit "d8a4c2875c984e51137c980b5773f42703602721" :authors '(("Ivan Malison" . "IvanMalison@gmail.com")) :maintainer '("Ivan Malison" . "IvanMalison@gmail.com") :keywords '("gitolite" "clone" "git") :url "https://github.com/IvanMalison/gitolite-clone")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/stgit-20200606.1308/stgit.el  -*- no-byte-compile: t -*-
+(define-package "stgit" "20200606.1308" "major mode for StGit interaction" 'nil :commit "755c709c02e4e091ceb934fd5672db416fc94dbd" :authors '(("David Kågedal" . "davidk@lysator.liu.se")) :maintainer '("David Kågedal" . "davidk@lysator.liu.se") :url "http://stacked-git.github.io")

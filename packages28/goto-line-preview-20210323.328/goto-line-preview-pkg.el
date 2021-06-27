@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/goto-line-preview-20210323.328/goto-line-preview.el  -*- no-byte-compile: t -*-
+(define-package "goto-line-preview" "20210323.328" "Preview line when executing `goto-line` command" '((emacs "25")) :commit "16c110950882450193af577fdc122d72c41a07bd" :authors '(("Shen, Jen-Chieh" . "jcs090218@gmail.com")) :maintainer '("Shen, Jen-Chieh" . "jcs090218@gmail.com") :url "https://github.com/jcs-elpa/goto-line-preview")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/most-used-words-20200808.931/most-used-words.el  -*- no-byte-compile: t -*-
+(define-package "most-used-words" "20200808.931" "Display most used words in buffer" '((emacs "24.3")) :commit "f712879493660c3c3ee3793470b8f8939b79c2b0" :authors '(("Udyant Wig" . "udyant.wig@gmail.com")) :maintainer '("Udyant Wig" . "udyant.wig@gmail.com") :keywords '("convenience" "wp") :url "https://github.com/udyantw/most-used-words")

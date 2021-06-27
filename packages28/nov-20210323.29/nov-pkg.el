@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/nov-20210323.29/nov.el  -*- no-byte-compile: t -*-
+(define-package "nov" "20210323.29" "Featureful EPUB reader mode" '((dash "2.12.0") (esxml "0.3.5") (emacs "24.4")) :commit "159682d99cace7d5954bddeab4543afd58109f29" :authors '(("Vasilij Schneidermann" . "mail@vasilij.de")) :maintainer '("Vasilij Schneidermann" . "mail@vasilij.de") :keywords '("hypermedia" "multimedia" "epub") :url "https://depp.brause.cc/nov.el")

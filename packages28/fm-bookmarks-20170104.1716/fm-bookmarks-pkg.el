@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/fm-bookmarks-20170104.1716/fm-bookmarks.el  -*- no-byte-compile: t -*-
+(define-package "fm-bookmarks" "20170104.1716" "Use file manager bookmarks (eg Dolphin, Nautilus, PCManFM) in Dired" '((emacs "24.3") (cl-lib "0.5")) :commit "11dacfd16a926bfecba96a94c6b13e162c7717f7" :authors '(("Ono Hiroko" . "azazabc123@gmail.com")) :maintainer '("Ono Hiroko" . "azazabc123@gmail.com") :keywords '("files" "convenience") :url "http://github.com/kuanyui/fm-bookmarks.el")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/sentence-navigation-20180408.1619/sentence-navigation.el  -*- no-byte-compile: t -*-
+(define-package "sentence-navigation" "20180408.1619" "Commands to navigate one-spaced sentences." '((ample-regexps "0.1") (cl-lib "0.5") (emacs "24.4")) :commit "7c5d2edeaed01196aec25031782e89adeaa089f0" :authors '(("Fox Kiester" . "noct@openmailbox.org")) :maintainer '("Fox Kiester" . "noct@openmailbox.org") :keywords '("sentence" "evil") :url "https://github.com/noctuid/emacs-sentence-navigation")

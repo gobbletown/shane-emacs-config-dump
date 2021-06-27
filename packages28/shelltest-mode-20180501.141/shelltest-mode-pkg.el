@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/shelltest-mode-20180501.141/shelltest-mode.el  -*- no-byte-compile: t -*-
+(define-package "shelltest-mode" "20180501.141" "Major mode for shelltestrunner" 'nil :commit "5fea8c9394380e822971a171905b6b5ab9be812d" :authors '(("Dustin Fechner" . "dfe@rtrn.io")) :maintainer '("Dustin Fechner" . "dfe@rtrn.io") :keywords '("languages") :url "https://github.com/rtrn/shelltest-mode")

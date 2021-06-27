@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/myterminal-controls-20190426.421/myterminal-controls.el  -*- no-byte-compile: t -*-
+(define-package "myterminal-controls" "20190426.421" "Quick toggle controls at a key-stroke" '((emacs "24")) :commit "733cdd7ab4f172b6dca09720fc5ae7dbc248c822" :authors '(("Mohammed Ismail Ansari" . "team.terminal@gmail.com")) :maintainer '("Mohammed Ismail Ansari" . "team.terminal@gmail.com") :keywords '("convenience" "shortcuts") :url "http://ismail.teamfluxion.com")

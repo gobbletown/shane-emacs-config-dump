@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/diary-manager-20210226.416/diary-manager.el  -*- no-byte-compile: t -*-
+(define-package "diary-manager" "20210226.416" "Simple personal diary" '((emacs "25")) :commit "12f194bd411e52b72bdf555e48e9a831e5ff8357" :authors '(("Radon Rosborough" . "radon.neon@gmail.com")) :maintainer '("Radon Rosborough" . "radon.neon@gmail.com") :keywords '("extensions") :url "https://github.com/raxod502/diary-manager")

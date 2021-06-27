@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/consult-spotify-20210411.1305/consult-spotify.el  -*- no-byte-compile: t -*-
+(define-package "consult-spotify" "20210411.1305" "Spotify queries using consult" '((emacs "26.1") (consult "0.5") (marginalia "0.3") (espotify "0.1")) :commit "22b81067ebcaef2cea633f967a4b55454af9326a" :authors '(("Jose A Ortega Ruiz" . "jao@gnu.org")) :maintainer '("Jose A Ortega Ruiz") :keywords '("multimedia") :url "https://codeberg.org/jao/espotify")

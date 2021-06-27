@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/git-dwim-20170126.1214/git-dwim.el  -*- no-byte-compile: t -*-
+(define-package "git-dwim" "20170126.1214" "Context-aware git commands such as branch handling" 'nil :commit "485c732130686c2f28a026e385366006435394b9" :authors '(("rubikitch" . "rubikitch@ruby-lang.org")) :maintainer '("rubikitch" . "rubikitch@ruby-lang.org") :keywords '("git" "tools" "convenience") :url "http://www.emacswiki.org/cgi-bin/wiki/download/git-dwim.el")

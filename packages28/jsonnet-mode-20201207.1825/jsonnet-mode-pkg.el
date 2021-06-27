@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/jsonnet-mode-20201207.1825/jsonnet-mode.el  -*- no-byte-compile: t -*-
+(define-package "jsonnet-mode" "20201207.1825" "Major mode for editing jsonnet files" '((emacs "24") (dash "2.17.0")) :commit "e93a1f55e5f9bc2b34b025c6f7a60a6f159268d1" :authors '(("Nick Lanham")) :maintainer '("Nick Lanham") :keywords '("languages") :url "https://github.com/mgyucht/jsonnet-mode")

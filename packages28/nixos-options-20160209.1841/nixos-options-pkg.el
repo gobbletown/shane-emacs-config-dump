@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/nixos-options-20160209.1841/nixos-options.el  -*- no-byte-compile: t -*-
+(define-package "nixos-options" "20160209.1841" "Interface for browsing and completing NixOS options." '((emacs "24")) :commit "8217f770660afe1a76cbaad7fadbae1d67b313ad" :authors '(("Diego Berrocal" . "cestdiego@gmail.com") ("Travis B. Hartwell" . "nafai@travishartwell.net")) :maintainer '("Diego Berrocal" . "cestdiego@gmail.com") :keywords '("unix") :url "http://www.github.com/travisbhartwell/nix-emacs/")

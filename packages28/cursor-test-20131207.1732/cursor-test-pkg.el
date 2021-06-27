@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/cursor-test-20131207.1732/cursor-test.el  -*- no-byte-compile: t -*-
+(define-package "cursor-test" "20131207.1732" "testing library for cursor position in emacs." '((emacs "24")) :commit "e09956e048b88fd2ee8dd90b5678baed8b04d31b" :authors '(("ainame")) :maintainer '("ainame") :url "https://github.com/ainame/cursor-test.el")

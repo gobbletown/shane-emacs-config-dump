@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/pest-mode-20200321.504/pest-mode.el  -*- no-byte-compile: t -*-
+(define-package "pest-mode" "20200321.504" "Major mode for editing Pest files" '((emacs "26.3")) :commit "43447a2c70f98edd1139005e32f437d3f142442b" :authors '(("ksqsf" . "i@ksqsf.moe")) :maintainer '("ksqsf" . "i@ksqsf.moe") :keywords '("languages") :url "https://github.com/ksqsf/pest-mode")

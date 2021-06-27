@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/blimp-20180903.2240/blimp.el  -*- no-byte-compile: t -*-
+(define-package "blimp" "20180903.2240" "Bustling Image Manipulation Package" '((emacs "25") (eimp "1.4.0")) :commit "39562f02acc1113595cb253a85bb3b9da743ddd2" :authors '(("Sebastian Wålinder" . "s.walinder@gmail.com")) :maintainer '("Sebastian Wålinder" . "s.walinder@gmail.com") :keywords '("multimedia" "unix") :url "https://github.com/walseb/blimp")

@@ -1,0 +1,17 @@
+2019-05-21  Stefan Monnier  <monnier@iro.umontreal.ca>
+
+	realgud-node-inspect/main.el: Fix copyright
+
+2019-05-21  Stefan Monnier  <monnier@iro.umontreal.ca>
+
+	* realgud-node-(debug|inspect): Author should be a valid email
+
+2019-05-20  rocky  <rocky@gnu.org>
+
+	Add 'packages/realgud-node-inspect/' from commit
+	'1cec9aecba5d31dfa419d7e73a38f101c3447a21'
+
+	git-subtree-dir: packages/realgud-node-inspect git-subtree-mainline:
+	c32288bd69141bb40dacadc36122e8dd9fd342fb git-subtree-split:
+	1cec9aecba5d31dfa419d7e73a38f101c3447a21
+

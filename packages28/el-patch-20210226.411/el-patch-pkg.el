@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/el-patch-20210226.411/el-patch.el  -*- no-byte-compile: t -*-
+(define-package "el-patch" "20210226.411" "Future-proof your Elisp" '((emacs "25")) :commit "5e823dc9a29e3be22597d93912f06119c38030d6" :authors '(("Radon Rosborough" . "radon.neon@gmail.com")) :maintainer '("Radon Rosborough" . "radon.neon@gmail.com") :keywords '("extensions") :url "https://github.com/raxod502/el-patch")

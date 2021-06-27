@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/password-mode-20210214.1905/password-mode.el  -*- no-byte-compile: t -*-
+(define-package "password-mode" "20210214.1905" "Hide password text using overlays" '((emacs "25.1")) :commit "ed4a4bedbdd920aad486009932495cb6ab70c3e6" :authors '(("Jürgen Hötzel" . "juergen@archlinux.org")) :maintainer '("Jürgen Hötzel" . "juergen@archlinux.org") :keywords '("docs" "password" "passphrase") :url "https://github.com/juergenhoetzel/password-mode")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/unobtrusive-magit-theme-20200411.1349/unobtrusive-magit-theme.el  -*- no-byte-compile: t -*-
+(define-package "unobtrusive-magit-theme" "20200411.1349" "An unobtrusive Magit theme" '((emacs "24.1")) :commit "aede357009655d19d4468320b2b61b0f26a47593" :authors '(("Thomas A. Brown" . "tabsoftwareconsulting@gmail.com")) :maintainer '("Thomas A. Brown" . "tabsoftwareconsulting@gmail.com") :keywords '("faces" "vc" "magit") :url "https://github.com/tee3/unobtrusive-magit-theme")

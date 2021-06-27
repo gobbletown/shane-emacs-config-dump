@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-attach-screenshot-20210221.1336/org-attach-screenshot.el  -*- no-byte-compile: t -*-
+(define-package "org-attach-screenshot" "20210221.1336" "Screenshots integrated with org attachment dirs" '((emacs "24.3")) :commit "6a5d5f8fd7cda1200cf088f415b9983e89a03075" :authors '(("Derek Feichtinger" . "derek.feichtinger@psi.ch")) :maintainer '("Derek Feichtinger" . "derek.feichtinger@psi.ch") :keywords '("org" "multimedia") :url "https://github.com/dfeich/org-screenshot")

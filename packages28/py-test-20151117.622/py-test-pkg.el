@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/py-test-20151117.622/py-test.el  -*- no-byte-compile: t -*-
+(define-package "py-test" "20151117.622" "A test runner for Python code." '((dash "2.9.0") (f "0.17") (emacs "24.4")) :commit "3b2a0bdaacb54df6f2bee8317423e5c0d159d5cf" :authors '(("Bogdan Paul Popa" . "popa.bogdanp@gmail.com")) :maintainer '("Bogdan Paul Popa" . "popa.bogdanp@gmail.com") :keywords '("python" "testing" "py.test") :url "https://github.com/Bogdanp/py-test.el")

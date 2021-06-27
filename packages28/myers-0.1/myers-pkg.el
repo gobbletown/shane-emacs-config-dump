@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/myers-0.1/myers.el  -*- no-byte-compile: t -*-
+(define-package "myers" "0.1" "Random-access singly-linked lists" '((emacs "25")) :url "http://elpa.gnu.org/packages/myers.html" :keywords '("list" "containers") :authors '(("Stefan Monnier" . "monnier@iro.umontreal.ca")) :maintainer '("Stefan Monnier" . "monnier@iro.umontreal.ca"))

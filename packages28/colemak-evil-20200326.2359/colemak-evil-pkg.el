@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/colemak-evil-20200326.2359/colemak-evil.el  -*- no-byte-compile: t -*-
+(define-package "colemak-evil" "20200326.2359" "Colemak-friendly keybindings for Evil." '((evil "20170323.1140")) :commit "981bdcb1a48c6d9139493abe7e25fabe126e43c3" :authors '(("Patrick Brinich-Langlois" . "pbrinichlanglois@gmail.com")) :maintainer '("Patrick Brinich-Langlois" . "pbrinichlanglois@gmail.com") :url "https://github.com/patbl/colemak-evil")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-gtd-20201112.253/org-gtd.el  -*- no-byte-compile: t -*-
+(define-package "org-gtd" "20201112.253" "An implementation of GTD" '((emacs "26.1") (org-edna "1.0.2") (f "0.20.0") (org-plus-contrib "9.3.1") (org-agenda-property "1.3.1")) :commit "8d7acda24a00ef94fd14a4e2ebe2606009eb46e9" :authors '(("Aldric Giacomoni" . "trevoke@gmail.com")) :maintainer '("Aldric Giacomoni" . "trevoke@gmail.com") :url "https://github.com/Trevoke/org-gtd.el")

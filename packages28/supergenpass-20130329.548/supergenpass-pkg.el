@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/supergenpass-20130329.548/supergenpass.el  -*- no-byte-compile: t -*-
+(define-package "supergenpass" "20130329.548" "SuperGenPass for Emacs" 'nil :commit "549072ef7b5b82913cadd4758e8a0a9926f0a04a" :authors '(("Jaime Fournier" . "jaimef@linbsd.org")) :maintainer '("Jaime Fournier" . "jaimef@linbsd.org") :keywords '("supergenpass"))

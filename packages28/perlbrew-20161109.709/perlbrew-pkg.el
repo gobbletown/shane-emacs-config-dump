@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/perlbrew-20161109.709/perlbrew.el  -*- no-byte-compile: t -*-
+(define-package "perlbrew" "20161109.709" "A perlbrew wrapper for Emacs" 'nil :commit "3a3406c3307c92aa30f9400d430925c434a3b6f0" :authors '(("Kentaro Kuribayashi" . "kentarok@gmail.com")) :maintainer '("Kentaro Kuribayashi" . "kentarok@gmail.com") :keywords '("emacs" "perl"))

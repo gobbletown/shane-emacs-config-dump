@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/atcoder-tools-20200109.1236/atcoder-tools.el  -*- no-byte-compile: t -*-
+(define-package "atcoder-tools" "20200109.1236" "An atcoder-tools client" '((emacs "26") (f "0.20") (s "1.12")) :commit "cfe61ed18ea9b3b1bfb6f9e7d80a47599680cd1f" :authors '(("Seong Yong-ju" . "sei40kr@gmail.com")) :maintainer '("Seong Yong-ju" . "sei40kr@gmail.com") :keywords '("extensions" "tools") :url "https://github.com/sei40kr/atcoder-tools")

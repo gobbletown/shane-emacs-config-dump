@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/notmuch-bookmarks-20200322.1925/notmuch-bookmarks.el  -*- no-byte-compile: t -*-
+(define-package "notmuch-bookmarks" "20200322.1925" "Add bookmark handling for notmuch buffers" '((seq "2.20") (emacs "26.1") (notmuch "0.29.3")) :commit "ec8edfdbd1ac475530591d73a570ded5c18ed86a" :authors '(("Jörg Volbers" . "joerg@joergvolbers.de")) :maintainer '("Jörg Volbers" . "joerg@joergvolbers.de") :keywords '("mail") :url "https://github.com/publicimageltd/notmuch-bookmarks")

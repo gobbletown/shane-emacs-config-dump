@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/live-code-talks-20180907.1647/live-code-talks.el  -*- no-byte-compile: t -*-
+(define-package "live-code-talks" "20180907.1647" "Support for slides with live code in them" '((emacs "24") (cl-lib "0.5") (narrowed-page-navigation "0.1")) :commit "97f16a9ee4e6ff3e0f9291eaead772c66e3e12ae" :authors '(("David Raymond Christiansen" . "david@davidchristiansen.dk")) :maintainer '("David Raymond Christiansen" . "david@davidchristiansen.dk") :keywords '("docs" "multimedia"))

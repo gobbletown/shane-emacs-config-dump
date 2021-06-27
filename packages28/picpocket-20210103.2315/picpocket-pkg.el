@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/picpocket-20210103.2315/picpocket.el  -*- no-byte-compile: t -*-
+(define-package "picpocket" "20210103.2315" "Image viewer" '((emacs "25.1")) :commit "fa3a49f011b5ae139728548fec7375743f61c7c7" :authors '(("Johan Claesson" . "johanwclaesson@gmail.com")) :maintainer '("Johan Claesson" . "johanwclaesson@gmail.com") :keywords '("multimedia") :url "https://github.com/johanclaesson/picpocket")

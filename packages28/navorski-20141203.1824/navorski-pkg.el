@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/navorski-20141203.1824/navorski.el  -*- no-byte-compile: t -*-
+(define-package "navorski" "20141203.1824" "Helping you live in the terminal, like Viktor did." '((s "1.9.0") (dash "1.5.0") (multi-term "0.8.14")) :commit "698c1c62da70164aebe9a7a5d034778fbc30ea5b" :authors '(("Roman Gonzalez <romanandreg@gmail.com>, Tavis Rudd" . "tavis@birdseye-sw.com")) :maintainer '("Roman Gonzalez" . "romanandreg@gmail.com") :keywords '("terminal"))

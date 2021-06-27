@@ -1,0 +1,25 @@
+#+BEGIN_SRC sh
+  vim +/"(defun xah-fly-insert-mode-init ()" "$HOME$MYGIT/spacemacs/packages27/xah-fly-keys-20180702.1521/xah-fly-keys.el"
+
+  vim +/"xah-fly-use-control-key" "$HOME$MYGIT/spacemacs/packages27/xah-fly-keys-20180702.1521/xah-fly-keys.el"
+
+  # 
+  vim +/"xah-fly--define-keys" "$HOME$MYGIT/spacemacs/packages27/xah-fly-keys-20180702.1521/xah-fly-keys.el"
+
+#+END_SRC
+
+
+There are too many keys to mention here
+
+| Ctrl+Tab       | xah-next-user-buffer          |
+| Ctrl+Shift+Tab | xah-previous-user-buffer      |
+| Ctrl+v         | Paste. yank                   |
+| Ctrl+w         | xah-close-current-buffer      |
+| Ctrl+z         | undo                          |
+| Ctrl+n         | xah-new-empty-buffer          |
+| Ctrl+o         | open. find-file               |
+| Ctrl+s         | save-buffer                   |
+| Ctrl+Shift+s   | Save As. write-file           |
+| Ctrl+Shift+t   | xah-open-last-closed          |
+| Ctrl++         | zoom-in. text-scale-increase  |
+| Ctrl+-         | zoom-out. text-scale-decrease |

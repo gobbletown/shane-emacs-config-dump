@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/abgaben-20171119.646/abgaben.el  -*- no-byte-compile: t -*-
+(define-package "abgaben" "20171119.646" "review and correct assignments received by mail" '((pdf-tools "0.80") (f "0.19.0") (s "1.11.0")) :commit "20d14830f07d66e2a04bcad1498a4a6fbf4b4451" :authors '(("Arne Köhn" . "arne@chark.eu")) :maintainer '("Arne Köhn" . "arne@chark.eu") :keywords '("mail" "outlines" "convenience") :url "http://arne.chark.eu/")

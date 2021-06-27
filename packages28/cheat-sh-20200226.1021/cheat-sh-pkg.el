@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/cheat-sh-20200226.1021/cheat-sh.el  -*- no-byte-compile: t -*-
+(define-package "cheat-sh" "20200226.1021" "Interact with cheat.sh" '((emacs "25.1")) :commit "52293c366044e44c8f6b648a312433345e4718ad" :authors '(("Dave Pearson" . "davep@davep.org")) :maintainer '("Dave Pearson" . "davep@davep.org") :keywords '("docs" "help") :url "https://github.com/davep/cheat-sh.el")

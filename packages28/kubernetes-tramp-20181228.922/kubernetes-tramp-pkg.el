@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/kubernetes-tramp-20181228.922/kubernetes-tramp.el  -*- no-byte-compile: t -*-
+(define-package "kubernetes-tramp" "20181228.922" "TRAMP integration for kubernetes containers" '((emacs "24") (cl-lib "0.5")) :commit "8713571b66940f8f3f496b55baa23cdf1df7a869" :authors '(("Giovanni Ruggiero" . "giovanni.ruggiero+github@gmail.com")) :maintainer '("Giovanni Ruggiero" . "giovanni.ruggiero+github@gmail.com") :keywords '("kubernetes" "convenience") :url "https://github.com/gruggiero/kubernetes-tramp")

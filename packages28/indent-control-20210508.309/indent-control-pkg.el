@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/indent-control-20210508.309/indent-control.el  -*- no-byte-compile: t -*-
+(define-package "indent-control" "20210508.309" "Management for indentation level" '((emacs "26.1")) :commit "044291cf063a86927dae50dffdb2b0e2e3f9199b" :authors '(("Shen, Jen-Chieh" . "jcs090218@gmail.com")) :maintainer '("Shen, Jen-Chieh" . "jcs090218@gmail.com") :url "https://github.com/jcs-elpa/indent-control")

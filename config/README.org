@@ -1,0 +1,3 @@
+I should probably prefix all of these with
+'my-' in case there already exists an elisp
+package of that name.

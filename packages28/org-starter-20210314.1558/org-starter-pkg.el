@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-starter-20210314.1558/org-starter.el  -*- no-byte-compile: t -*-
+(define-package "org-starter" "20210314.1558" "A basic configuration framework for org mode" '((emacs "25.1") (dash "2.18")) :commit "786257e682bf147022d5b19e6df6e7c9939193af" :authors '(("Akira Komamura" . "akira.komamura@gmail.com")) :maintainer '("Akira Komamura" . "akira.komamura@gmail.com") :url "https://github.com/akirak/org-starter")

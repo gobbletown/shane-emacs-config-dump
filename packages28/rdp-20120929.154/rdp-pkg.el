@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/rdp-20120929.154/rdp.el  -*- no-byte-compile: t -*-
+(define-package "rdp" "20120929.154" "Recursive Descent Parser library" 'nil :commit "b620192afada04aec33b38cc130fef0765f41ca9" :authors '(("Christopher Wellons" . "mosquitopsu@gmail.com")) :maintainer '("Christopher Wellons" . "mosquitopsu@gmail.com") :url "https://github.com/skeeto/rdp")

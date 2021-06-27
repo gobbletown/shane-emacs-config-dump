@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/autobuild-20200713.227/autobuild.el  -*- no-byte-compile: t -*-
+(define-package "autobuild" "20200713.227" "Define and execute build rules and compilation pipelines" '((cl-lib "0.3") (emacs "26.1")) :commit "9b068d979bad78aba8e8bef9f9e7c3bfecb34d2d" :authors '(("Ernesto Alfonso")) :maintainer '(nil . "(concat \"erjoalgo\" \"@\" \"gmail\" \".com\")") :keywords '("compile" "build" "pipeline" "autobuild" "extensions" "processes" "tools") :url "https://github.com/erjoalgo/autobuild")

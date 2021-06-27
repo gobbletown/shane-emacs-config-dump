@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/alda-mode-20180608.605/alda-mode.el  -*- no-byte-compile: t -*-
+(define-package "alda-mode" "20180608.605" "An Alda major mode" '((emacs "24.0")) :commit "1692b9003d2c3de403251ec452c6ce43ec819c84" :authors '(("Jay Kamat" . "jaygkamat@gmail.com")) :maintainer '("Jay Kamat" . "jaygkamat@gmail.com") :keywords '("alda" "highlight") :url "http://gitlab.com/jgkamat/alda-mode")

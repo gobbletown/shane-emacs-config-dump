@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/git-backup-ivy-20200709.818/git-backup-ivy.el  -*- no-byte-compile: t -*-
+(define-package "git-backup-ivy" "20200709.818" "An ivy interface to git-backup" '((ivy "0.12.0") (git-backup "0.0.1") (emacs "25.1")) :commit "0a5c52e64d0062f77ffefc9213e75690c6d7b111" :authors '(("Sebastian Wålinder" . "s.walinder@gmail.com")) :maintainer '("Sebastian Wålinder" . "s.walinder@gmail.com") :keywords '("backup" "convenience" "files" "tools" "vc") :url "https://github.com/walseb/git-backup-ivy")

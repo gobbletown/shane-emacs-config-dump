@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/flycheck-dmd-dub-20200824.852/flycheck-dmd-dub.el  -*- no-byte-compile: t -*-
+(define-package "flycheck-dmd-dub" "20200824.852" "Sets flycheck-dmd-include-paths from dub package information" '((flycheck "0.24") (f "0.18.2")) :commit "39f7fc3f80ea7567a49012d235d22cf640fb0dfa" :authors '(("Atila Neves" . "atila.neves@gmail.com")) :maintainer '("Atila Neves" . "atila.neves@gmail.com") :keywords '("languages") :url "http://github.com/atilaneves/flycheck-dmd-dub")

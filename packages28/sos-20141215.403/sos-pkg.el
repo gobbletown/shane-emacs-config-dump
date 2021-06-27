@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/sos-20141215.403/sos.el  -*- no-byte-compile: t -*-
+(define-package "sos" "20141215.403" "StackOverflow Search" '((org-plus-contrib "7")) :commit "1573adca912b88b5010d99a25c83a5b2313bd39c" :authors '(("Rudolf Olah")) :maintainer '("Rudolf Olah") :keywords '("tools" "search" "questions") :url "https://github.com/omouse/emacs-sos")

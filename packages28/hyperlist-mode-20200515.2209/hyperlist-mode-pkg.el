@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/hyperlist-mode-20200515.2209/hyperlist-mode.el  -*- no-byte-compile: t -*-
+(define-package "hyperlist-mode" "20200515.2209" "A major-mode for viewing Hyperlists" '((emacs "24")) :commit "374cdc04761df23e7a50ca276319ba9745cda9d7" :authors '(("Wojciech Siewierski")) :maintainer '("Wojciech Siewierski") :keywords '("outlines") :url "https://github.com/vifon/hyperlist-mode")

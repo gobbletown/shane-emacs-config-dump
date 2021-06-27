@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/emoji-github-20200825.425/emoji-github.el  -*- no-byte-compile: t -*-
+(define-package "emoji-github" "20200825.425" "Display list of GitHub's emoji.  (cheat sheet)" '((emacs "24.4") (emojify "1.0") (request "0.3.0")) :commit "d512c2babb412820945444c6daf309b470e2eb12" :authors '(("Shen, Jen-Chieh" . "jcs090218@gmail.com")) :maintainer '("Shen, Jen-Chieh" . "jcs090218@gmail.com") :url "https://github.com/jcs-elpa/emoji-github")

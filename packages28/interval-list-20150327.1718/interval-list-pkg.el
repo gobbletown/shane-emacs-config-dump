@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/interval-list-20150327.1718/interval-list.el  -*- no-byte-compile: t -*-
+(define-package "interval-list" "20150327.1718" "Interval list data structure for 1D selections" '((dash "2.4.0") (cl-lib "0.5") (emacs "24.4")) :commit "38af7ecf0a493ad8f487074938a2a115f3531177" :authors '(("Matus Goljer" . "matus.goljer@gmail.com")) :maintainer '("Matus Goljer" . "matus.goljer@gmail.com") :keywords '("extensions" "data structure") :url "https://github.com/Fuco1/interval-list")

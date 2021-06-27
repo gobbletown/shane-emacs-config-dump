@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/launchctl-20210309.1113/launchctl.el  -*- no-byte-compile: t -*-
+(define-package "launchctl" "20210309.1113" "Interface to launchctl on Mac OS X." '((emacs "24.1")) :commit "86cbb8980de4641b552a792389cc2cb9b2718ee4" :authors '(("Peking Duck <github.com/pekingduck>")) :maintainer '("Peking Duck <github.com/pekingduck>") :keywords '("tools" "convenience") :url "http://github.com/pekingduck/launchctl-el")

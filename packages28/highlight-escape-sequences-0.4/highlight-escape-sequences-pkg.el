@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/.emacs.d/packages28/highlight-escape-sequences-0.4/highlight-escape-sequences.el  -*- no-byte-compile: t -*-
+(define-package "highlight-escape-sequences" "0.4" "Highlight escape sequences" 'nil :keywords '("convenience") :authors '(("Dmitry Gutov" . "dgutov@yandex.ru") ("Pavel Matcula" . "dev.plvlml@gmail.com")) :maintainer '("Dmitry Gutov" . "dgutov@yandex.ru") :url "https://github.com/dgutov/highlight-escape-sequences")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/graphviz-dot-mode-20160129.2134/graphviz-dot-mode.el  -*- no-byte-compile: t -*-
+(define-package "graphviz-dot-mode" "20160129.2134" "Mode for the dot-language used by graphviz (att)." 'nil :maintainer '("Pieter Pareit" . "pieter.pareit@gmail.com") :keywords '("mode" "dot" "dot-language" "dotlanguage" "graphviz" "graphs" "att") :url "http://ppareit.github.com/graphviz-dot-mode/")

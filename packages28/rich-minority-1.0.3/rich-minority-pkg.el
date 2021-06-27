@@ -1,0 +1,2 @@
+;; Generated package description from rich-minority.el  -*- no-byte-compile: t -*-
+(define-package "rich-minority" "1.0.3" "Clean-up and Beautify the list of minor-modes." '((cl-lib "0.5")) :keywords '("mode-line" "faces") :authors '(("Artur Malabarba" . "emacs@endlessparentheses.com")) :maintainer '("Artur Malabarba" . "emacs@endlessparentheses.com") :url "https://github.com/Malabarba/rich-minority")

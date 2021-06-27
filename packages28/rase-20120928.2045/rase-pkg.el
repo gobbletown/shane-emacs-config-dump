@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/rase-20120928.2045/rase.el  -*- no-byte-compile: t -*-
+(define-package "rase" "20120928.2045" "Run At Sun Event daemon" 'nil :commit "59b5f7e8102570b65040e8d55781c7ea28de7338" :authors '(("Andrey Kotlarski" . "m00naticus@gmail.com")) :maintainer '("Andrey Kotlarski" . "m00naticus@gmail.com") :keywords '("solar" "sunrise" "sunset" "midday" "midnight") :url "https://github.com/m00natic/rase/")

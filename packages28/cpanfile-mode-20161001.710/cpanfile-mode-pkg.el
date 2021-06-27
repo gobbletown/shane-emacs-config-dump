@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/cpanfile-mode-20161001.710/cpanfile-mode.el  -*- no-byte-compile: t -*-
+(define-package "cpanfile-mode" "20161001.710" "Major mode for cpanfiles" '((emacs "24.4")) :commit "eda675703525198df1f76ddf250bffa40217ec5d" :authors '(("Zak B. Elep" . "zakame@zakame.net")) :maintainer '("Zak B. Elep" . "zakame@zakame.net") :keywords '("perl") :url "https://github.com/zakame/cpanfile-mode")

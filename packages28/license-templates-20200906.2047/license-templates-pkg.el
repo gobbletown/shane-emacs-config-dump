@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/license-templates-20200906.2047/license-templates.el  -*- no-byte-compile: t -*-
+(define-package "license-templates" "20200906.2047" "Create LICENSE using GitHub API" '((emacs "24.3") (request "0.3.0")) :commit "ef80eff8b7be117f9c48bdc6d9a62e56b0a93554" :authors '(("Shen, Jen-Chieh" . "jcs090218@gmail.com")) :maintainer '("Shen, Jen-Chieh" . "jcs090218@gmail.com") :url "https://github.com/jcs-elpa/license-templates")

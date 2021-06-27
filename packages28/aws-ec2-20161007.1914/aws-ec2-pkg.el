@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/aws-ec2-20161007.1914/aws-ec2.el  -*- no-byte-compile: t -*-
+(define-package "aws-ec2" "20161007.1914" "Manage AWS EC2 instances" '((emacs "24.4") (dash "2.12.1") (tblui "0.1.0")) :commit "5601d4f268fc34b86a02ca90cde7d3771619a368" :authors '(("Yuki Inoue <inouetakahiroki _at_ gmail.com>")) :maintainer '("Yuki Inoue <inouetakahiroki _at_ gmail.com>") :url "https://github.com/Yuki-Inoue/aws.el")

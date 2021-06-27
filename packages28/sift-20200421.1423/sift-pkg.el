@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/sift-20200421.1423/sift.el  -*- no-byte-compile: t -*-
+(define-package "sift" "20200421.1423" "Front-end for sift, a fast and powerful grep alternative" 'nil :commit "cdddba2d183146c340915003f1b5d09d13712c22" :authors '(("Nicolas Lamirault" . "nicolas.lamirault@gmail.com")) :maintainer '("Nicolas Lamirault" . "nicolas.lamirault@gmail.com") :keywords '("sift" "ack" "pt" "ag" "grep" "search") :url "https://github.com/nlamirault/sift.el")

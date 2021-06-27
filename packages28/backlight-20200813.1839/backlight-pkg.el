@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/backlight-20200813.1839/backlight.el  -*- no-byte-compile: t -*-
+(define-package "backlight" "20200813.1839" "backlight brightness adjustment on GNU/Linux" '((emacs "24.3")) :commit "38fcb9256c3bf7300a41332fa7f9feffc4e2db9a" :authors '(("Michael Schuldt" . "mbschuldt@gmail.com")) :maintainer '("Michael Schuldt" . "mbschuldt@gmail.com") :keywords '("hardware") :url "https://github.com/mschuldt/backlight.el")

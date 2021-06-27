@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/dispass-20140202.1531/dispass.el  -*- no-byte-compile: t -*-
+(define-package "dispass" "20140202.1531" "Emacs wrapper for DisPass" '((dash "1.0.0")) :commit "b6e8f89040ebaaf0e7609b04bc27a8979f0ae861" :authors '(("Tom Willemsen" . "tom@ryuslash.org")) :maintainer '("Tom Willemsen" . "tom@ryuslash.org") :keywords '("processes") :url "http://projects.ryuslash.org/dispass.el/")

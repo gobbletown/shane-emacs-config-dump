@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-starter-swiper-20201202.144/org-starter-swiper.el  -*- no-byte-compile: t -*-
+(define-package "org-starter-swiper" "20201202.144" "Swiper for org-starter" '((emacs "25.1") (swiper "0.11") (org-starter "0.2.4")) :commit "786257e682bf147022d5b19e6df6e7c9939193af" :authors '(("Akira Komamura" . "akira.komamura@gmail.com")) :maintainer '("Akira Komamura" . "akira.komamura@gmail.com") :url "https://github.com/akirak/org-starter")

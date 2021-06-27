@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/portage-navi-20141208.1355/portage-navi.el  -*- no-byte-compile: t -*-
+(define-package "portage-navi" "20141208.1355" "portage viewer" '((concurrent "0.3.1") (ctable "0.1.2")) :commit "8016c3e99fe6cef101d479a3d69185796b22ca2f" :authors '(("<m.sakurai at kiwanami.net>")) :maintainer '("<m.sakurai at kiwanami.net>") :keywords '("tools" "gentoo") :url "https://github.com/kiwanami/emacs-portage-navi")

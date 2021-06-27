@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/interleave-20191129.958/interleave.el  -*- no-byte-compile: t -*-
+(define-package "interleave" "20191129.958" "Interleaving text books since 2015" 'nil :commit "e1791a96a2633a9f5ea99fc0a20ebacedcefdaaa" :authors '(("Sebastian Christ" . "rudolfo.christ@gmail.com")) :maintainer '("Sebastian Christ" . "rudolfo.christ@gmail.com") :url "https://github.com/rudolfochrist/interleave")

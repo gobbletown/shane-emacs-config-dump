@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/gnus-summary-ext-20180113.1316/gnus-summary-ext.el  -*- no-byte-compile: t -*-
+(define-package "gnus-summary-ext" "20180113.1316" "Extra limit and process mark commands for the gnus summary buffer" 'nil :commit "025fd853fe9280ae696a89ec2c2cac9befd010aa" :authors '(("Joe Bloggs" . "vapniks@yahoo.com")) :maintainer '("Joe Bloggs" . "vapniks@yahoo.com") :keywords '("comm") :url "https://github.com/vapniks/gnus-summary-ext")

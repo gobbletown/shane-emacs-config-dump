@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/bfbuilder-20210228.1740/bfbuilder.el  -*- no-byte-compile: t -*-
+(define-package "bfbuilder" "20210228.1740" "A brainfuck development environment with interactive debugger" '((cl-lib "0.3") (emacs "24.4")) :commit "689f320a9a1326cdeff43b8538e0d739f8519c4b" :authors '(("zk_phi")) :maintainer '("zk_phi") :url "http://zk-phi.gitub.io/")

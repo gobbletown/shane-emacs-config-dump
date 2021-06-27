@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/review-mode-20201019.104/review-mode.el  -*- no-byte-compile: t -*-
+(define-package "review-mode" "20201019.104" "major mode for ReVIEW" 'nil :commit "e6a2a10d4544cd2d5893e44dc534681af8db4fea" :authors '(("Kenshi Muto" . "kmuto@kmuto.jp")) :maintainer '("Kenshi Muto" . "kmuto@kmuto.jp") :url "https://github.com/kmuto/review-el")

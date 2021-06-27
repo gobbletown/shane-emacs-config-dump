@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/system-specific-settings-20140818.1457/system-specific-settings.el  -*- no-byte-compile: t -*-
+(define-package "system-specific-settings" "20140818.1457" "Apply settings only on certain systems" 'nil :commit "0050d85b2175095aa5ecf580a2fe43c069b0eef3" :authors '(("Ryan C. Thompson")) :maintainer '("Ryan C. Thompson") :keywords '("configuration") :url "https://github.com/DarwinAwardWinner/emacs-system-specific-settings")

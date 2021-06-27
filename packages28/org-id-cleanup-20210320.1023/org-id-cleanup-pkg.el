@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-id-cleanup-20210320.1023/org-id-cleanup.el  -*- no-byte-compile: t -*-
+(define-package "org-id-cleanup" "20210320.1023" "Interactively find, present and maybe clean up unused IDs of org-id" '((org-plus-contrib "9.3") (dash "2.12") (emacs "26.3")) :commit "0877bd57f95ad96a342505a6ecef0c15977f6bd6" :authors '(("Marc Ihm" . "1@2484.de")) :maintainer '("Marc Ihm" . "1@2484.de") :url "https://github.com/marcIhm/org-id-cleanup")

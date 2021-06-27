@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/forecast-20191004.1850/forecast.el  -*- no-byte-compile: t -*-
+(define-package "forecast" "20191004.1850" "Weather forecasts" '((emacs "24.4")) :commit "331252334ea2e62d8e06b2dfa24be5dbd7f9c09f" :authors '(("Göktuğ Kayaalp" . "self@gkayaalp.com")) :maintainer '("Göktuğ Kayaalp" . "self@gkayaalp.com") :keywords '("weather" "forecast") :url "https://dev.gkayaalp.com/elisp/index.html#forecast-el")

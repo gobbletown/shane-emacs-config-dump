@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/djangonaut-20200503.921/djangonaut.el  -*- no-byte-compile: t -*-
+(define-package "djangonaut" "20200503.921" "Minor mode to interact with Django projects" '((emacs "25.2") (magit-popup "2.6.0") (pythonic "0.1.0") (f "0.20.0") (s "1.12.0")) :commit "75f642114e3997308a1e7e67c3025738cecee0fe" :authors '(("Artem Malyshev" . "proofit404@gmail.com")) :maintainer '("Artem Malyshev" . "proofit404@gmail.com") :url "https://github.com/proofit404/djangonaut")

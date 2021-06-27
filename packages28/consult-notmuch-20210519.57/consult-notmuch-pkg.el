@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/consult-notmuch-20210519.57/consult-notmuch.el  -*- no-byte-compile: t -*-
+(define-package "consult-notmuch" "20210519.57" "Notmuch search using consult" '((emacs "26.1") (consult "0.5") (notmuch "0.21")) :commit "71aa3b8ee6cd3cd07313b74353ac29fdfde0e7b0" :authors '(("Jose A Ortega Ruiz" . "jao@gnu.org")) :maintainer '("Jose A Ortega Ruiz") :keywords '("mail") :url "https://codeberg.org/jao/consult-notmuch")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/repl-toggle-20210226.1055/repl-toggle.el  -*- no-byte-compile: t -*-
+(define-package "repl-toggle" "20210226.1055" "Switch to/from repl buffer for current major-mode" '((fullframe "0.0.5")) :commit "7028ae65f136215f8e07a43afc33a6b99fe82857" :authors '(("Tom Regner" . "tom@goochesa.de")) :maintainer '("Tom Regner" . "tom@goochesa.de") :keywords '("repl" "buffers" "toggle"))

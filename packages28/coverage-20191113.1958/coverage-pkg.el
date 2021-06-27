@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/coverage-20191113.1958/coverage.el  -*- no-byte-compile: t -*-
+(define-package "coverage" "20191113.1958" "Code coverage line highlighting" '((ov "1.0") (cl-lib "0.5")) :commit "6e3c6f2dcb759a76086adeeb1fdfe83e4f082482" :authors '(("Kieran Trezona-le Comte" . "trezona.lecomte@gmail.com")) :maintainer '("Kieran Trezona-le Comte" . "trezona.lecomte@gmail.com") :keywords '("coverage" "metrics" "simplecov" "ruby" "rspec") :url "https://github.com/trezona-lecomte/coverage")

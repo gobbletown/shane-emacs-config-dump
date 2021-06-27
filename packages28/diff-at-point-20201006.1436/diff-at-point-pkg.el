@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/diff-at-point-20201006.1436/diff-at-point.el  -*- no-byte-compile: t -*-
+(define-package "diff-at-point" "20201006.1436" "Diff navigation" '((emacs "26.2")) :commit "3fcf861f1f8b91d97000bda32345bc92df8e2d37" :authors '(("Campbell Barton" . "ideasman42@gmail.com")) :maintainer '("Campbell Barton" . "ideasman42@gmail.com") :url "https://gitlab.com/ideasman42/emacs-diff-at-point")

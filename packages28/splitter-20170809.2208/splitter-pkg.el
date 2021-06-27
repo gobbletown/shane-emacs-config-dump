@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/splitter-20170809.2208/splitter.el  -*- no-byte-compile: t -*-
+(define-package "splitter" "20170809.2208" "Manage window splits" 'nil :commit "6bdb51e9a346907d60a9625f6180bddd06be6674" :authors '(("Steven Thomas")) :maintainer '("Steven Thomas") :keywords '("frames" "convenience") :url "https://github.com/chumpage/chumpy-windows")

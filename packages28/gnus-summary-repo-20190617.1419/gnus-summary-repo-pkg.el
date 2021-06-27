@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/gnus-summary-repo-20190617.1419/gnus-summary-repo.el  -*- no-byte-compile: t -*-
+(define-package "gnus-summary-repo" "20190617.1419" "Import and export files between IMAP and local by using GNUS" '((emacs "25")) :commit "d0cb218fea13563c1b2bfba3e72716fb860f767c" :authors '(("Giap Tran" . "txgvnn@gmail.com")) :maintainer '("Giap Tran" . "txgvnn@gmail.com") :keywords '("gnus" "repository") :url "https://github.com/TxGVNN/gnus-summary-repo")

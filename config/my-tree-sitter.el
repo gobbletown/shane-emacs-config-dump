@@ -1,0 +1,3 @@
+
+
+(provide 'my-tree-sitter)

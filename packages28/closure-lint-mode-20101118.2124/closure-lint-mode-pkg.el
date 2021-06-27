@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/closure-lint-mode-20101118.2124/closure-lint-mode.el  -*- no-byte-compile: t -*-
+(define-package "closure-lint-mode" "20101118.2124" "minor mode for the Closure Linter" 'nil :commit "bc3d2fd5c35580bf1b8af43b12484c95a343b4b5" :authors '(("Roman Scherer" . "roman@burningswell.com")) :maintainer '("Roman Scherer" . "roman@burningswell.com") :keywords '("tools" "closure" "javascript" "lint" "flymake") :url "https://github.com/r0man/closure-lint-mode")

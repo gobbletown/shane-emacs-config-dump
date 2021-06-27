@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/rect+-20150621.44/rect+.el  -*- no-byte-compile: t -*-
+(define-package "rect+" "20150621.44" "Extensions to rect.el" 'nil :commit "299b742faa0bc4448e0d5fe9cb98ab1eb93b8dcc" :authors '(("Masahiro Hayashi" . "mhayashi1120@gmail.com")) :maintainer '("Masahiro Hayashi" . "mhayashi1120@gmail.com") :keywords '("extensions" "data" "tools") :url "https://github.com/mhayashi1120/Emacs-rectplus")

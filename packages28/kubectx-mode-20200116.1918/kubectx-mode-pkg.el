@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/kubectx-mode-20200116.1918/kubectx-mode.el  -*- no-byte-compile: t -*-
+(define-package "kubectx-mode" "20200116.1918" "Change kubectl context/namespace and show in mode line" '((emacs "24")) :commit "f08687ae5403eb18bbeffc6dafdfde469bdb9a36" :authors '(("Terje Sannum" . "terje@offpiste.org")) :maintainer '("Terje Sannum" . "terje@offpiste.org") :keywords '("tools" "kubernetes") :url "https://github.com/terjesannum/emacs-kubectx-mode")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/apt-sources-list-20180527.1241/apt-sources-list.el  -*- no-byte-compile: t -*-
+(define-package "apt-sources-list" "20180527.1241" "Mode for editing APT source.list files" '((emacs "24.4")) :commit "5289443ceff230dfc8a2c1c6b524c90560eb08a5" :authors '(("Dr. Rafael Sepúlveda" . "drs@gnulinux.org.mx")) :maintainer '("Joe Wreschnig" . "joe.wreschnig@gmail.com") :url "https://git.korewanetadesu.com/apt-sources-list.git")

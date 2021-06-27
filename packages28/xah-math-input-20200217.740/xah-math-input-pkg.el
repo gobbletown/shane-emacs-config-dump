@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/xah-math-input-20200217.740/xah-math-input.el  -*- no-byte-compile: t -*-
+(define-package "xah-math-input" "20200217.740" "a minor mode for inputting math and Unicode symbols." '((emacs "24.1")) :commit "c1e72c4578a134e9aa3ec9ef425038d8c16fba94" :authors '(("Xah Lee ( http://xahlee.info/ )")) :maintainer '("Xah Lee ( http://xahlee.info/ )") :keywords '("abbrev" "convenience" "unicode" "math" "latex") :url "http://ergoemacs.org/emacs/xmsi-math-symbols-input.html")

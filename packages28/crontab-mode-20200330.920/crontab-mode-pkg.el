@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/crontab-mode-20200330.920/crontab-mode.el  -*- no-byte-compile: t -*-
+(define-package "crontab-mode" "20200330.920" "Major mode for crontab(5)" '((emacs "24")) :commit "9625228cbfce29ac3b443c6eff893ff828268f7d" :authors '(("Mario Rodas" . "marsam@users.noreply.github.com")) :maintainer '("Mario Rodas" . "marsam@users.noreply.github.com") :keywords '("languages") :url "https://github.com/emacs-pe/crontab-mode")

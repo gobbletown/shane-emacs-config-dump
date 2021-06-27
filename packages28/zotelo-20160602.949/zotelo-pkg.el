@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/zotelo-20160602.949/zotelo.el  -*- no-byte-compile: t -*-
+(define-package "zotelo" "20160602.949" "Manage Zotero collections from emacs" '((cl-lib "0.5")) :commit "d9dc089b9adfcc70a63f2a84269a12eb7cb4c748" :authors '(("Spinu Vitalie")) :maintainer '("Spinu Vitalie") :keywords '("zotero" "emacs" "reftex" "bibtex" "mozrepl" "bibliography manager") :url "https://github.com/vitoshka/zotelo")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/poly-slim-20200316.1316/poly-slim.el  -*- no-byte-compile: t -*-
+(define-package "poly-slim" "20200316.1316" "Polymodes for slim" '((emacs "25") (polymode "0.2.2") (slim-mode "1.1")) :commit "9e9b5164c68955974fd5f5d220aec5af9b5ba3ae" :authors '(("Siavash Sajjadi and Vitalie Spinu")) :maintainer '("Vitalie Spinu") :keywords '("emacs") :url "https://github.com/polymode/poly-slim")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-index-20210320.1013/org-index.el  -*- no-byte-compile: t -*-
+(define-package "org-index" "20210320.1013" "A personal adaptive index for org" '((org-plus-contrib "9.3") (dash "2.12") (s "1.12") (emacs "26.3")) :commit "47dda7d3dce11e8ab9a3847f8c6a1cbb8345f861" :authors '(("Marc Ihm" . "1@2484.de")) :maintainer '("Marc Ihm" . "1@2484.de") :url "https://github.com/marcIhm/org-index")

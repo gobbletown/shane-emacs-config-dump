@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/frame-purpose-20201219.1340/frame-purpose.el  -*- no-byte-compile: t -*-
+(define-package "frame-purpose" "20201219.1340" "Purpose-specific frames" '((emacs "25.1") (dash "2.12") (dash-functional "1.2.0")) :commit "b4a259fa077671e2dcf33d11b42955c91e395b8b" :authors '(("Adam Porter" . "adam@alphapapa.net")) :maintainer '("Adam Porter" . "adam@alphapapa.net") :keywords '("buffers" "convenience" "frames") :url "http://github.com/alphapapa/frame-purpose.el")

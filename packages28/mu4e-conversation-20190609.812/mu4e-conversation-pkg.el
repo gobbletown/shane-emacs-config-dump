@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/mu4e-conversation-20190609.812/mu4e-conversation.el  -*- no-byte-compile: t -*-
+(define-package "mu4e-conversation" "20190609.812" "Show a complete thread in a single buffer" '((emacs "25.1")) :commit "ccf85002b18fee54051dbfaf8d3931ca2a07db24" :authors '(("Pierre Neidhardt" . "mail@ambrevar.xyz")) :maintainer '("Pierre Neidhardt" . "mail@ambrevar.xyz") :keywords '("mail" "convenience" "mu4e") :url "https://gitlab.com/Ambrevar/mu4e-conversation")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/utop-20190715.1836/utop.el  -*- no-byte-compile: t -*-
+(define-package "utop" "20190715.1836" "Universal toplevel for OCaml" '((emacs "24")) :commit "a5ff52bbf608e1112b5c0d41a36e3267f39f4084" :authors '(("Jeremie Dimino" . "jeremie@dimino.org")) :maintainer '("Jeremie Dimino" . "jeremie@dimino.org") :keywords '("ocaml" "languages") :url "https://github.com/diml/utop")

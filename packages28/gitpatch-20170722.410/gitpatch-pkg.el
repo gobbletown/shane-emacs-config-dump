@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/gitpatch-20170722.410/gitpatch.el  -*- no-byte-compile: t -*-
+(define-package "gitpatch" "20170722.410" "Git-format patch toolkit" '((emacs "24.3")) :commit "577d5adf65c8133caa325c10e89e1e2fc323c907" :authors '(("Feng Shu" . "tumashu@163.com")) :maintainer '("Feng Shu" . "tumashu@163.com") :keywords '("convenience") :url "https://github.com/tumashu/gitpatch")

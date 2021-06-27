@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/gitlab-snip-helm-20200427.2014/gitlab-snip-helm.el  -*- no-byte-compile: t -*-
+(define-package "gitlab-snip-helm" "20200427.2014" "Gitlab snippets api helm package" '((emacs "25") (dash "2.12.0") (helm "3.2")) :commit "782df679e33646db29e07508311bc8e8624b484e" :authors '(("Fermin MF" . "fmfs@posteo.net")) :maintainer '("Fermin MF" . "fmfs@posteo.net") :keywords '("tools" "files" "convenience") :url "https://gitlab.com/sasanidas/gitlab-snip-helm")

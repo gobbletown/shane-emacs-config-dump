@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-rtm-20160214.1236/org-rtm.el  -*- no-byte-compile: t -*-
+(define-package "org-rtm" "20160214.1236" "Simple import/export from rememberthemilk to org-mode" '((rtm "0.1")) :commit "adc42ad1fbe92ab447ccc9553780f4456f2508d2" :authors '(("Philipp Middendorf" . "pmidden@secure.mailbox.org")) :maintainer '("Philipp Middendorf" . "pmidden@secure.mailbox.org") :keywords '("outlines" "data") :url "https://github.com/pmiddend/org-rtm")

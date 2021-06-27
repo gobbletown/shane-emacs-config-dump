@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/baidu-translate-20190817.1318/baidu-translate.el  -*- no-byte-compile: t -*-
+(define-package "baidu-translate" "20190817.1318" "A plugin using baidu-translate-api" 'nil :commit "b04a74d09ff5e3fbefd1b39b2abe79a9e272321a" :authors '((nil . "<LiShizhen gsu4017@gmail.com>")) :maintainer '(nil . "<LiShizhen gsu4017@gmail.com>") :keywords '("docs") :url "https://github.com/liShiZhensPi/baidu-translate")

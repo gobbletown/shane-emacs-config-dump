@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/nodemcu-mode-20180501.2225/nodemcu-mode.el  -*- no-byte-compile: t -*-
+(define-package "nodemcu-mode" "20180501.2225" "Minor mode for NodeMCU" '((emacs "25")) :commit "8effd9f3df40b6b92a2f05e4d54750b624afc4a7" :authors '(("Andreas Müller" . "code@0x7.ch")) :maintainer '("Andreas Müller" . "code@0x7.ch") :keywords '("tools") :url "https://github.com/andrmuel/nodemcu-mode")

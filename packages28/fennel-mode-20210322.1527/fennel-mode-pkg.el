@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/fennel-mode-20210322.1527/fennel-mode.el  -*- no-byte-compile: t -*-
+(define-package "fennel-mode" "20210322.1527" "a major-mode for editing Fennel code" 'nil :commit "ba14a7ddc21f8bc2b9bc58abd1655abbe12118d7" :authors '(("Phil Hagelberg")) :maintainer '("Phil Hagelberg") :keywords '("languages" "tools") :url "https://gitlab.com/technomancy/fennel-mode")

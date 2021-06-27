@@ -1,0 +1,26 @@
+(require 'graphviz-dot-mode)
+
+(defun dot-digraph ()
+  (interactive)
+  (let* ((td (snc "td"))
+         (f (snc (concat "cd " (e/q td) "; dot-digraph -norg") (region-or-buffer-string)))
+         (fp (concat td f)))
+    (if (interactive-p)
+        (if (yn "show?")
+            (sps (cmd "win" "ie" fp))))
+    (my/copy fp)))
+
+(defun neato-digraph ()
+  (interactive)
+  (let* ((td (snc "td"))
+         (f (snc (concat "cd " (e/q td) "; neato-digraph -norg") (region-or-buffer-string)))
+         (fp (concat td f)))
+    (if (interactive-p)
+        (if (yn "show?")
+            (sps (cmd "win" "ie" fp))))
+    (my/copy fp)))
+
+(define-key graphviz-dot-mode-map (kbd "C-c C-d") 'dot-digraph)
+(define-key graphviz-dot-mode-map (kbd "C-c C-n") 'neato-digraph)
+
+(provide 'my-graphviz)

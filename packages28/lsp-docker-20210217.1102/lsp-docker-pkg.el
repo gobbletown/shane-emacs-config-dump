@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/lsp-docker-20210217.1102/lsp-docker.el  -*- no-byte-compile: t -*-
+(define-package "lsp-docker" "20210217.1102" "LSP Docker integration" '((emacs "25.1") (dash "2.14.1") (lsp-mode "6.2.1")) :commit "a5b9ae58fc46b683bccd97d6722f9bd1663fd79a" :authors '(("Ivan Yonchovski" . "yyoncho@gmail.com")) :maintainer '("Ivan Yonchovski" . "yyoncho@gmail.com") :keywords '("languages" "langserver") :url "https://github.com/emacs-lsp/lsp-docker")

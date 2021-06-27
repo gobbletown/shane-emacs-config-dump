@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/unison-mode-20160513.1501/unison-mode.el  -*- no-byte-compile: t -*-
+(define-package "unison-mode" "20160513.1501" "Syntax highlighting for unison file synchronization program" 'nil :commit "0bd6a65c0d12f87fcf7bdff15fe54444959b93bf" :authors '(("Karl Fogelmark" . "karlfogel@gmail.com")) :maintainer '("Karl Fogelmark" . "karlfogel@gmail.com") :keywords '("symchronization" "unison") :url "https://github.com/impaktor/unison-mode")

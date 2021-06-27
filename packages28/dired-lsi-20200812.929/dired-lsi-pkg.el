@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/dired-lsi-20200812.929/dired-lsi.el  -*- no-byte-compile: t -*-
+(define-package "dired-lsi" "20200812.929" "Add memo to directory and show it in dired" '((emacs "26.1")) :commit "0f4038c8b47f6cfc70f82062800700c14c9912c2" :authors '(("Naoya Yamashita" . "conao3@gmail.com")) :maintainer '("Naoya Yamashita" . "conao3@gmail.com") :keywords '("convenience") :url "https://github.com/conao3/dired-lsi.el")

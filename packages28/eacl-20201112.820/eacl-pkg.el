@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/eacl-20201112.820/eacl.el  -*- no-byte-compile: t -*-
+(define-package "eacl" "20201112.820" "Auto-complete lines by grepping project" '((emacs "24.4")) :commit "5f3cfac22a7e2508be47079860ab573f397c3cfa" :authors '(("Chen Bin <chenbin DOT sh AT gmail DOT com>")) :maintainer '("Chen Bin <chenbin DOT sh AT gmail DOT com>") :keywords '("abbrev" "convenience" "matching") :url "http://github.com/redguardtoo/eacl")

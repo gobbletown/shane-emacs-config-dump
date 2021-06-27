@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/sql-beeline-0.1/sql-beeline.el  -*- no-byte-compile: t -*-
+(define-package "sql-beeline" "0.1" "Beeline support for sql.el" 'nil :url "http://elpa.gnu.org/packages/sql-beeline.html" :keywords '("sql" "hive" "beeline" "hiveserver2") :authors '(("Filipp Gunbin" . "fgunbin@fastmail.fm")) :maintainer '("Filipp Gunbin" . "fgunbin@fastmail.fm"))

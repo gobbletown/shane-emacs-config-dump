@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/git-ps1-mode-20200113.704/git-ps1-mode.el  -*- no-byte-compile: t -*-
+(define-package "git-ps1-mode" "20200113.704" "Global minor-mode to print __git_ps1 in mode-line" 'nil :commit "6762a309bd593d26258dfbf43e7bc21254a70fbf" :authors '(("10sr <8slashes+el [at] gmail [dot] com>")) :maintainer '("10sr <8slashes+el [at] gmail [dot] com>") :keywords '("utility" "mode-line" "git") :url "https://github.com/10sr/git-ps1-mode-el")

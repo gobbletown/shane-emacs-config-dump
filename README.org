@@ -1,0 +1,2 @@
+* My emacs config
+If there's any sensitive information here please do the right thing!

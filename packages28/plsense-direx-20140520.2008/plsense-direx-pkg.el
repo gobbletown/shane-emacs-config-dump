@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/plsense-direx-20140520.2008/plsense-direx.el  -*- no-byte-compile: t -*-
+(define-package "plsense-direx" "20140520.2008" "Perl Package Explorer" '((direx "0.1alpha") (plsense "0.3.2") (log4e "0.2.0") (yaxception "0.3.2")) :commit "8a2f465264c74e04524cc789cdad0190ace43f6c" :authors '(("Hiroaki Otsu" . "ootsuhiroaki@gmail.com")) :maintainer '("Hiroaki Otsu" . "ootsuhiroaki@gmail.com") :keywords '("perl" "convenience") :url "https://github.com/aki2o/plsense-direx")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/framesize-20131017.2132/framesize.el  -*- no-byte-compile: t -*-
+(define-package "framesize" "20131017.2132" "change the size of frames in Emacs" '((key-chord "0.5.20080915")) :commit "f2dbf5d2513b2bc45f2085370a55c1754b6025da" :authors '(("Nic Ferrier" . "nferrier@ferrier.me.uk")) :maintainer '("Nic Ferrier" . "nferrier@ferrier.me.uk") :keywords '("frames") :url "http://github.com/nicferrier/emacs-framesize")

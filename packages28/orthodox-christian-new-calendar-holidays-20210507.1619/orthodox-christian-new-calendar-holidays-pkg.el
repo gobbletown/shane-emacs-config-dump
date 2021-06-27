@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/orthodox-christian-new-calendar-holidays-20210507.1619/orthodox-christian-new-calendar-holidays.el  -*- no-byte-compile: t -*-
+(define-package "orthodox-christian-new-calendar-holidays" "20210507.1619" "Feasts (NS)" 'nil :commit "c0ba49bb01d037ce8800aa04db06f454ef043cb6" :authors '(("Carson Chittom" . "carson@wistly.net")) :maintainer '("Carson Chittom" . "carson@wistly.net") :keywords '("calendar") :url "https://github.com/cmchittom/orthodox-christian-new-calendar-holidays")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/term+key-intercept-20140211.750/term+key-intercept.el  -*- no-byte-compile: t -*-
+(define-package "term+key-intercept" "20140211.750" "term+ intercept key mapping" '((term+ "0.1") (key-intercept "0.1")) :commit "fd0771fd66b8c7a909aaac972194485c79ba48c4" :authors '(("INA Lintaro <tarao.gnn at gmail.com>")) :maintainer '("INA Lintaro <tarao.gnn at gmail.com>") :keywords '("terminal" "emulation") :url "http://github.com/tarao/term+-el")

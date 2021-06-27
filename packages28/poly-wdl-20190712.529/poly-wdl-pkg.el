@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/poly-wdl-20190712.529/poly-wdl.el  -*- no-byte-compile: t -*-
+(define-package "poly-wdl" "20190712.529" "Polymode for WDL" '((emacs "25") (polymode "0.2") (wdl-mode "20170709")) :commit "963faa828d15d49cee5a63f619c3c30e162c2d0f" :authors '(("Jean Monlong" . "jean.monlong@gmail.com")) :maintainer '("Jean Monlong" . "jean.monlong@gmail.com") :keywords '("languages") :url "https://github.com/jmonlong/poly-wdl")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/esqlite-helm-20151116.850/esqlite-helm.el  -*- no-byte-compile: t -*-
+(define-package "esqlite-helm" "20151116.850" "Define helm source for sqlite database" '((esqlite "0.2.0") (helm "20131207.845")) :commit "08a779a821f8d32c1a1985d8d9eb6cf21646ce2e" :authors '(("Masahiro Hayashi" . "mhayashi1120@gmail.com")) :maintainer '("Masahiro Hayashi" . "mhayashi1120@gmail.com") :keywords '("data") :url "https://github.com/mhayashi1120/Emacs-esqlite")

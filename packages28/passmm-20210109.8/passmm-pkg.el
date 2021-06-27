@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/passmm-20210109.8/passmm.el  -*- no-byte-compile: t -*-
+(define-package "passmm" "20210109.8" "A minor mode for pass (Password Store)." '((emacs "24.4") (password-store "0")) :commit "d78d1bf4f397180d2256248df589f33aafb4c8b4" :authors '(("Peter Jones" . "pjones@devalot.com")) :maintainer '("Peter Jones" . "pjones@devalot.com") :url "https://github.com/pjones/passmm")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/bang-20200924.1601/bang.el  -*- no-byte-compile: t -*-
+(define-package "bang" "20200924.1601" "A sam-like shell-command" '((emacs "24.1")) :commit "a2077ecf974fb8299fef0f008aa974d782245ec8" :authors '(("Philip K." . "philip@warpmail.net")) :maintainer '("Philip K." . "philip@warpmail.net") :keywords '("unix" "processes" "convenience") :url "https://git.sr.ht/~zge/bang")

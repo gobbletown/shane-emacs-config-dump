@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/vuiet-20210322.838/vuiet.el  -*- no-byte-compile: t -*-
+(define-package "vuiet" "20210322.838" "The music player and explorer for Emacs" '((emacs "26.1") (lastfm "1.1") (versuri "1.0") (s "1.12.0") (bind-key "2.4") (mpv "0.1.0")) :commit "d881601b8cd64de001358940ee312b14840e87db" :authors '(("Mihai Olteanu" . "mihai_olteanu@fastmail.fm")) :maintainer '("Mihai Olteanu" . "mihai_olteanu@fastmail.fm") :keywords '("multimedia") :url "https://github.com/mihaiolteanu/vuiet")

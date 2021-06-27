@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/key-intercept-20140211.749/key-intercept.el  -*- no-byte-compile: t -*-
+(define-package "key-intercept" "20140211.749" "Intercept prefix keys" 'nil :commit "d9a60edb4ce893f2d3d94f242164fdcc62d43cf2" :authors '(("INA Lintaro <tarao.gnn at gmail.com>")) :maintainer '("INA Lintaro <tarao.gnn at gmail.com>") :keywords '("keyboard") :url "http://github.com/tarao/key-intercept-el")

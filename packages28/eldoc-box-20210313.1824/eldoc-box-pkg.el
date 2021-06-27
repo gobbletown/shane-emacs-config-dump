@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/eldoc-box-20210313.1824/eldoc-box.el  -*- no-byte-compile: t -*-
+(define-package "eldoc-box" "20210313.1824" "Display documentation in childframe" '((emacs "26.1")) :commit "d4574ee392b9a8c537bec895be37468b600c25ac" :authors '(("Sebastien Chapuis" . "sebastien@chapu.is")) :maintainer '("Yuan Fu" . "casouri@gmail.com") :url "https://github.com/casouri/eldoc-box")

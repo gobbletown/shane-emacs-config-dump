@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/gore-mode-20151123.1927/gore-mode.el  -*- no-byte-compile: t -*-
+(define-package "gore-mode" "20151123.1927" "Simple mode for gore, a command-line evaluator for golang." '((go-mode "1.0.0")) :commit "94d7f3e99104e06167967c98fdc201049c433c2d" :authors '(("Sergey Pashaev" . "sergey.pashaev@gmail.com")) :maintainer '("Sergey Pashaev" . "sergey.pashaev@gmail.com") :keywords '("go" "repl"))

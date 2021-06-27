@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/unison-20160704.740/unison.el  -*- no-byte-compile: t -*-
+(define-package "unison" "20160704.740" "sync with Unison" '((emacs "24.1")) :commit "a78a04c0d1398d00f75a1bd4799622a65bcb0f28" :authors '(("Kevin Brubeck Unhammer" . "unhammer@fsfe.org")) :maintainer '("Kevin Brubeck Unhammer" . "unhammer@fsfe.org") :keywords '("sync") :url "http://github.com/unhammer/unison.el")

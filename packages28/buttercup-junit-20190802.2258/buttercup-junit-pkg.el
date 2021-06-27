@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/buttercup-junit-20190802.2258/buttercup-junit.el  -*- no-byte-compile: t -*-
+(define-package "buttercup-junit" "20190802.2258" "JUnit reporting for Buttercup" '((emacs "24.3") (buttercup "1.15")) :commit "3ae4f84813c9e04e03a6e703990ca998b62b6deb" :authors '(("Ola Nilsson" . "ola.nilsson@gmail.com")) :maintainer '("Ola Nilsson" . "ola.nilsson@gmail.com") :keywords '("tools" "test" "unittest" "buttercup" "ci") :url "https://bitbucket.org/olanilsson/buttercup-junit")

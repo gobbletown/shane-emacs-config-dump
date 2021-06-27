@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/sql-impala-20181218.410/sql-impala.el  -*- no-byte-compile: t -*-
+(define-package "sql-impala" "20181218.410" "comint support for Cloudera Impala" 'nil :commit "466e7c0c789ec3e5e8a276c8f6754f91bb584c3e" :authors '(("Jason Terk" . "jason@goterkyourself.com")) :maintainer '("Jason Terk" . "jason@goterkyourself.com") :keywords '("sql" "impala") :url "https://github.com/jterk/sql-impala")

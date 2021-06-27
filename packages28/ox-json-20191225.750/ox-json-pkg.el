@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/ox-json-20191225.750/ox-json.el  -*- no-byte-compile: t -*-
+(define-package "ox-json" "20191225.750" "JSON export backend for Org mode" '((emacs "24") (org "9") (s "1.12")) :commit "11609b0a4125d1cc6a1149748eeddeeff4e5df63" :authors '(("Jared Lumpe" . "mjlumpe@gmail.com")) :maintainer '("Jared Lumpe" . "mjlumpe@gmail.com") :keywords '("outlines") :url "https://github.com/jlumpe/ox-json")

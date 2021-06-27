@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: traces section
+# key: tr
+# --
+traces$0

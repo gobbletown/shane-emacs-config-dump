@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/exunit-20210222.1453/exunit.el  -*- no-byte-compile: t -*-
+(define-package "exunit" "20210222.1453" "ExUnit test runner" '((s "1.11.0") (emacs "24.3") (f "0.20.0")) :commit "5bb115f3270cfe29d36286da889f0ee5bba03cfd" :authors '(("Anantha kumaran" . "ananthakumaran@gmail.com")) :maintainer '("Anantha kumaran" . "ananthakumaran@gmail.com") :keywords '("processes" "elixir" "exunit") :url "http://github.com/ananthakumaran/exunit.el")

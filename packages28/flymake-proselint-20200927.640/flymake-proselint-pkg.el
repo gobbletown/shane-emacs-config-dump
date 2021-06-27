@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/flymake-proselint-20200927.640/flymake-proselint.el  -*- no-byte-compile: t -*-
+(define-package "flymake-proselint" "20200927.640" "Flymake backend for proselint" '((emacs "26.1") (flymake-quickdef "1.0.0")) :commit "b94950301139846002d2020bc630440ff834bf24" :authors '(("Manuel Uberti" . "manuel.uberti@inventati.org")) :maintainer '("Manuel Uberti" . "manuel.uberti@inventati.org") :keywords '("convenience") :url "https://github.com/manuel-uberti/flymake-proselint")

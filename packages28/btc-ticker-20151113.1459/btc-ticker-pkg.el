@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/btc-ticker-20151113.1459/btc-ticker.el  -*- no-byte-compile: t -*-
+(define-package "btc-ticker" "20151113.1459" "Shows latest bitcoin price" '((json "1.2") (request "0.2.0")) :commit "845235b545f070d0812cd1654cbaa4997565824f" :authors '(("Jorge Niedbalski R." . "jnr@metaklass.org")) :maintainer '("Jorge Niedbalski R." . "jnr@metaklass.org") :keywords '("news"))

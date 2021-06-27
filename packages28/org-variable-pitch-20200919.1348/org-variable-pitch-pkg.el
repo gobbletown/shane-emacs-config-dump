@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-variable-pitch-20200919.1348/org-variable-pitch.el  -*- no-byte-compile: t -*-
+(define-package "org-variable-pitch" "20200919.1348" "Minor mode for variable pitch text in org mode." '((emacs "25")) :commit "331252334ea2e62d8e06b2dfa24be5dbd7f9c09f" :authors '(("Göktuğ Kayaalp" . "self@gkayaalp.com")) :maintainer '("Göktuğ Kayaalp" . "self@gkayaalp.com") :keywords '("faces") :url "https://dev.gkayaalp.com/elisp/index.html#ovp")

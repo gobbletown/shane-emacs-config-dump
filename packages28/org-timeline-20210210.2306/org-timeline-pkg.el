@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-timeline-20210210.2306/org-timeline.el  -*- no-byte-compile: t -*-
+(define-package "org-timeline" "20210210.2306" "Add graphical view of agenda to agenda buffer." '((dash "2.13.0") (emacs "24.3")) :commit "af1b44e18048278a116da89faf138310f09c74c6" :authors '(("Matúš Goljer" . "matus.goljer@gmail.com")) :maintainer '("Matúš Goljer" . "matus.goljer@gmail.com") :keywords '("calendar") :url "https://github.com/Fuco1/org-timeline/")

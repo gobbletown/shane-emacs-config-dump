@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/gnus-select-account-20170722.511/gnus-select-account.el  -*- no-byte-compile: t -*-
+(define-package "gnus-select-account" "20170722.511" "Select an account before writing a mail in gnus" 'nil :commit "ddc8c135eeaf90f5b6692a033af2badae36e68ce" :authors '(("Feng Shu " . "tumashu@163.com")) :maintainer '("Feng Shu " . "tumashu@163.com") :keywords '("convenience") :url "https://github.com/tumashu/gnus-select-account")

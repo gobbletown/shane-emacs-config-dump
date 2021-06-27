@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/undercover-20210123.2157/undercover.el  -*- no-byte-compile: t -*-
+(define-package "undercover" "20210123.2157" "Test coverage library for Emacs Lisp" '((emacs "24") (dash "2.0.0") (shut-up "0.3.2")) :commit "c36a7366aa080558125fa651ed6a28d5df735b37" :authors '(("Sviridov Alexander" . "sviridov.vmi@gmail.com")) :maintainer '("Sviridov Alexander" . "sviridov.vmi@gmail.com") :keywords '("lisp" "tests" "coverage" "tools") :url "https://github.com/sviridov/undercover.el")

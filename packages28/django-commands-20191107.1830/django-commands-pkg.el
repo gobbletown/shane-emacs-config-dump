@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/django-commands-20191107.1830/django-commands.el  -*- no-byte-compile: t -*-
+(define-package "django-commands" "20191107.1830" "Run django commands" '((emacs "25.1")) :commit "bef7ca848d6d1721ebb22b181c50dcfbef16e434" :authors '(("Andrii Kolomoiets" . "andreyk.mad@gmail.com")) :maintainer '("Andrii Kolomoiets" . "andreyk.mad@gmail.com") :keywords '("tools") :url "https://github.com/muffinmad/emacs-django-commands")

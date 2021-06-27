@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/namespaces-20130326.2250/namespaces.el  -*- no-byte-compile: t -*-
+(define-package "namespaces" "20130326.2250" "An implementation of namespaces for Elisp, with an emphasis on immutabilty." 'nil :commit "3d02525d9b9a5ae6e7be3adefd880121436e6270" :authors '(("Chris Barrett")) :maintainer '("Chris Barrett") :url "https://github.com/chrisbarrett/elisp-namespaces")

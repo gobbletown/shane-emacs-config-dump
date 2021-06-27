@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/outline-toc-20200401.1208/outline-toc.el  -*- no-byte-compile: t -*-
+(define-package "outline-toc" "20200401.1208" "Sidebar showing a \"table of contents\"." 'nil :commit "81d373633b40628cc3a6b6fb534fd7730076bcdb" :authors '(("Austin Bingham" . "austin.bingham@gmail.com")) :maintainer '("Austin Bingham" . "austin.bingham@gmail.com") :keywords '("convenience" "outlines") :url "https://github.com/abingham/outline-toc.el")

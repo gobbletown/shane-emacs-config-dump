@@ -1,0 +1,158 @@
+(defun completion-help-at-point ()
+  "Display the completions on the text around point.
+The completion method is determined by `completion-at-point-functions'."
+  (interactive)
+  (let ((res (run-hook-wrapped 'completion-at-point-functions
+                               ;; Ignore misbehaving functions.
+                               #'completion--capf-wrapper 'optimist)))
+    (pcase res
+      (`(,_ . ,(and (pred functionp) f))
+       (message "Don't know how to show completions for %S" f))
+      (`(,hookfun . (,start ,end ,collection . ,plist))
+       (unless (markerp start) (setq start (copy-marker start)))
+       (let* ((minibuffer-completion-table collection)
+              (minibuffer-completion-predicate (plist-get plist :predicate))
+              (completion-extra-properties plist)
+              (completion-in-region-mode-predicate
+               (lambda ()
+                 ;; We're still in the same completion field.
+                 (let ((newstart (car-safe (funcall hookfun))))
+                   (and newstart (= newstart start))))))
+         ;; FIXME: We should somehow (ab)use completion-in-region-function or
+         ;; introduce a corresponding hook (plus another for word-completion,
+         ;; and another for force-completion, maybe?).
+         (setq completion-in-region--data
+               `(,start ,(copy-marker end t) ,collection
+                        ,(plist-get plist :predicate)))
+         (completion-in-region-mode 1)
+         (minibuffer-completion-help start end)))
+      (`(,hookfun . ,_)
+       ;; The hook function already performed completion :-(
+       ;; Not much we can do at this point.
+       (message "%s already performed completion!" hookfun)
+       nil)
+      (_ (message "Nothing to complete at point")))))
+
+(defun minibuffer-completion-help (&optional start end)
+  "Display a list of possible completions of the current minibuffer contents."
+  (interactive)
+  (message "Making completion list...")
+  (let* ((start (or start (minibuffer-prompt-end)))
+         (end (or end (point-max)))
+         (string (buffer-substring start end))
+         (md (completion--field-metadata start))
+         (completions (completion-all-completions
+                       string
+                       minibuffer-completion-table
+                       minibuffer-completion-predicate
+                       (- (point) start)
+                       md)))
+    (message nil)
+    (if (or (null completions)
+            (and (not (consp (cdr completions)))
+                 (equal (car completions) string)))
+        (progn
+          ;; If there are no completions, or if the current input is already
+          ;; the sole completion, then hide (previous&stale) completions.
+          (minibuffer-hide-completions)
+          (ding)
+          (minibuffer-message
+           (if completions "Sole completion" "No completions")))
+
+      (let* ((last (last completions))
+             (base-size (or (cdr last) 0))
+             (prefix (unless (zerop base-size) (substring string 0 base-size)))
+             (all-md (completion--metadata (buffer-substring-no-properties
+                                            start (point))
+                                           base-size md
+                                           minibuffer-completion-table
+                                           minibuffer-completion-predicate))
+             (afun (or (completion-metadata-get all-md 'annotation-function)
+                       (plist-get completion-extra-properties
+                                  :annotation-function)
+                       completion-annotate-function))
+             ;; If the *Completions* buffer is shown in a new
+             ;; window, mark it as softly-dedicated, so bury-buffer in
+             ;; minibuffer-hide-completions will know whether to
+             ;; delete the window or not.
+             (display-buffer-mark-dedicated 'soft)
+             ;; Disable `pop-up-windows' temporarily to allow
+             ;; `display-buffer--maybe-pop-up-frame-or-window'
+             ;; in the display actions below to pop up a frame
+             ;; if `pop-up-frames' is non-nil, but not to pop up a window.
+             (pop-up-windows nil))
+        (with-displayed-buffer-window
+          "*Completions*"
+          ;; This is a copy of `display-buffer-fallback-action'
+          ;; where `display-buffer-use-some-window' is replaced
+          ;; with `display-buffer-at-bottom'.
+          `((display-buffer--maybe-same-window
+             display-buffer-reuse-window
+             display-buffer--maybe-pop-up-frame-or-window
+             ;; Use `display-buffer-below-selected' for inline completions,
+             ;; but not in the minibuffer (e.g. in `eval-expression')
+             ;; for which `display-buffer-at-bottom' is used.
+             ,(if (eq (selected-window) (minibuffer-window))
+                  'display-buffer-at-bottom
+                'display-buffer-below-selected))
+	    ,(if temp-buffer-resize-mode
+		 '(window-height . resize-temp-buffer-window)
+	       '(window-height . fit-window-to-buffer))
+	    ,(when temp-buffer-resize-mode
+	       '(preserve-size . (nil . t))))
+          nil
+          ;; Remove the base-size tail because `sort' requires a properly
+          ;; nil-terminated list.
+          (when last (setcdr last nil))
+          (setq completions
+                ;; FIXME: This function is for the output of all-completions,
+                ;; not completion-all-completions.  Often it's the same, but
+                ;; not always.
+                (let ((sort-fun (completion-metadata-get
+                                 all-md 'display-sort-function)))
+                  (if sort-fun
+                      (funcall sort-fun completions)
+                    (sort completions 'string-lessp))))
+          (when afun
+            (setq completions
+                  (mapcar (lambda (s)
+                            (let ((ann (funcall afun s)))
+                              (if ann (list s ann) s)))
+                          completions)))
+
+          (with-current-buffer standard-output
+            (set (make-local-variable 'completion-base-position)
+                 (list (+ start base-size)
+                       ;; FIXME: We should pay attention to completion
+                       ;; boundaries here, but currently
+                       ;; completion-all-completions does not give us the
+                       ;; necessary information.
+                       end))
+            (set (make-local-variable 'completion-list-insert-choice-function)
+                 (let ((ctable minibuffer-completion-table)
+                       (cpred minibuffer-completion-predicate)
+                       (cprops completion-extra-properties))
+                   (lambda (start end choice)
+                     (unless (or (zerop (length prefix))
+                                 (equal prefix
+                                        (buffer-substring-no-properties
+                                         (max (point-min)
+                                              (- start (length prefix)))
+                                         start)))
+                       (message "*Completions* out of date"))
+                     ;; FIXME: Use `md' to do quoting&terminator here.
+                     (completion--replace start end choice)
+                     (let* ((minibuffer-completion-table ctable)
+                            (minibuffer-completion-predicate cpred)
+                            (completion-extra-properties cprops)
+                            (result (concat prefix choice))
+                            (bounds (completion-boundaries
+                                     result ctable cpred "")))
+                       ;; If the completion introduces a new field, then
+                       ;; completion is not finished.
+                       (completion--done result
+                                         (if (eq (car bounds) (length result))
+                                             'exact 'finished)))))))
+
+          (display-completion-list completions))))
+    nil))

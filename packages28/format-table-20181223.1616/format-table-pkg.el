@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/format-table-20181223.1616/format-table.el  -*- no-byte-compile: t -*-
+(define-package "format-table" "20181223.1616" "Parse and reformat tabular data." '((emacs "25") (dash "2.14.1")) :commit "dfcae3a867e574577fc09a43b045889ff155b58f" :authors '(("Jason Duncan" . "jasond496@msn.com")) :maintainer '("Jason Duncan" . "jasond496@msn.com") :keywords '("data") :url "https://github.com/functionreturnfunction/format-table")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/evil-test-helpers-20201008.1515/evil-test-helpers.el  -*- no-byte-compile: t -*-
+(define-package "evil-test-helpers" "20201008.1515" "unit test helpers for Evil" '((evil "1.14.0")) :commit "325a822bee6b9f8590e6e77fe73b4d916fcec357" :authors '(("Vegard Øye <vegard_oye at hotmail.com>")) :maintainer '("Vegard Øye <vegard_oye at hotmail.com>"))

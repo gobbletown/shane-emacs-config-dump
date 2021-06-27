@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/transmission-20210218.2015/transmission.el  -*- no-byte-compile: t -*-
+(define-package "transmission" "20210218.2015" "Interface to a Transmission session" '((emacs "24.4") (let-alist "1.0.5")) :commit "b5c1d391b4be469a07536e901e54a8680387025f" :authors '(("Mark Oteiza" . "mvoteiza@udel.edu")) :maintainer '("Mark Oteiza" . "mvoteiza@udel.edu") :keywords '("comm" "tools"))

@@ -1,0 +1,5 @@
+(global-set-key (kbd "<f4>") (lambda () (interactive) (mark-whole-buffer)
+                               (if (region-active-p)
+                                   (let ((rstart (region-beginning))
+                                         (rend (region-end)))
+                                     (indent-region rstart rend)))))

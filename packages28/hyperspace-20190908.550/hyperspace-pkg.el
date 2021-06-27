@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/hyperspace-20190908.550/hyperspace.el  -*- no-byte-compile: t -*-
+(define-package "hyperspace" "20190908.550" "Get there from here" '((emacs "25") (s "1.12.0")) :commit "a7ea085baf4a51cac0513cb57216677722938781" :authors '(("Ian Eure" . "ian@retrospec.tv")) :maintainer '("Ian Eure" . "ian@retrospec.tv") :keywords '("tools" "convenience") :url "https://github.com/ieure/hyperspace-el")

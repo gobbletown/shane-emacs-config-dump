@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-shoplist-20201003.1235/org-shoplist.el  -*- no-byte-compile: t -*-
+(define-package "org-shoplist" "20201003.1235" "Eat the world" '((emacs "25")) :commit "de2d0ba7a2177921b15468417f1de1b00e076895" :authors '(("lordnik22")) :maintainer '("lordnik22") :keywords '("extensions" "matching") :url "https://github.com/lordnik22")

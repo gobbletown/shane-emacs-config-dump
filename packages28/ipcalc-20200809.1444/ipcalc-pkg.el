@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/ipcalc-20200809.1444/ipcalc.el  -*- no-byte-compile: t -*-
+(define-package "ipcalc" "20200809.1444" "IP subnet calculator" '((cl-lib "0.5")) :commit "58b2b6c90af93ae46c5445b33ee4d1ef4bac1efb" :authors '(("\"Aleksandar Simic\"" . "asimic@gmail.com")) :maintainer '("\"Aleksandar Simic\"" . "asimic@gmail.com") :keywords '("networking" "tools") :url "http://github.com/dotemacs/ipcalc.el")

@@ -1,0 +1,32 @@
+(buffer-name)
+" "
+(str (- (region-beginning) 1))
+" "
+(str (- (region-end) 1))
+" | python -m json.tool")))))
+        (copy-fast clql)
+        (message clql)
+        (ns clql))))
+
+(defun open-in-sublime ()
+  (interactive)
+  (sh-notty (concat "sublime " (e/q (str (buffer-file-name))))))
+
+(defun lingo-insert-project-name ()
+  (interactive)
+  (insert (e/chomp (bp u dn | u bn (buffer-file-name)))))
+
+(defun lingo-extract-backtick-test-cases ()
+  "Gets everything that's between a pair of backticks."
+  (interactive)
+  (cfilter "extract-backtick-test-cases.sh"))
+
+(defun lingo-extract-yaml-from-clql ()
+  "Gets everything that's between a pair of backticks."
+  (interactive)
+  (cfilter "extract-yaml-from-clql"))
+
+(defun lingo-extract-yaml-from-clql-to-file ()
+  "Gets everything that's between a pair of backticks."
+  (interactive)
+  (sh-notty (concat "yaml2clql " (e/q (buffer-file-name)))))

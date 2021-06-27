@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/ejson-mode-20190720.2138/ejson-mode.el  -*- no-byte-compile: t -*-
+(define-package "ejson-mode" "20190720.2138" "Major mode for editing ejson files." '((emacs "25")) :commit "9630dfac9549779711dbe89e621f516bb4b3a354" :authors '(("Dante Catalfamo")) :maintainer '("Dante Catalfamo") :keywords '("convenience" "languages" "tools") :url "https://github.com/dantecatalfamo/ejson-mode")

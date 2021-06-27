@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/kubernetes-helm-20190201.320/kubernetes-helm.el  -*- no-byte-compile: t -*-
+(define-package "kubernetes-helm" "20190201.320" "extension for helm, the package manager for kubernetes" '((yaml-mode "0.0.13") (emacs "25.3")) :commit "bdf9280899b5efab6d55ffd96bad716c5f8e75bc" :authors '(("Adrien Brochard")) :maintainer '("Adrien Brochard") :keywords '("kubernetes" "helm" "k8s" "tools" "processes") :url "https://github.com/abrochard/kubernetes-helm")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/eshell-toggle-20201112.1008/eshell-toggle.el  -*- no-byte-compile: t -*-
+(define-package "eshell-toggle" "20201112.1008" "Show/hide eshell under active window." '((emacs "25.1") (dash "2.11.0")) :commit "bbf69e54ba97f23ae281f5c455c194e8a236549c" :authors '(("Dmitry Cherkassov" . "dcherkassov@gmail.com")) :maintainer '("Dmitry Cherkassov" . "dcherkassov@gmail.com") :keywords '("processes") :url "https://github.com/4da/eshell-toggle")

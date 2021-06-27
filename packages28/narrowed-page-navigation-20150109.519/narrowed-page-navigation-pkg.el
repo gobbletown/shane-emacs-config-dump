@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/narrowed-page-navigation-20150109.519/narrowed-page-navigation.el  -*- no-byte-compile: t -*-
+(define-package "narrowed-page-navigation" "20150109.519" "A minor mode for showing one page at a time" '((emacs "24") (cl-lib "0.5")) :commit "b215adbac4873f56fbab65772062f0f5be8058a1" :authors '(("David Raymond Christiansen" . "david@davidchristiansen.dk")) :maintainer '("David Raymond Christiansen" . "david@davidchristiansen.dk") :keywords '("outlines"))

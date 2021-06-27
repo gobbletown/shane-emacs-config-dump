@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/dired-atool-20181228.1422/dired-atool.el  -*- no-byte-compile: t -*-
+(define-package "dired-atool" "20181228.1422" "Pack/unpack files with atool on dired." '((emacs "24")) :commit "52ce4ac88fa39a0ebdf732435fd831ea9a8d0764" :authors '(("Hiroki YAMAKAWA" . "s06139@gmail.com")) :maintainer '("Hiroki YAMAKAWA" . "s06139@gmail.com") :keywords '("files") :url "https://github.com/HKey/dired-atool")

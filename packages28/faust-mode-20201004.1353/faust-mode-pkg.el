@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/faust-mode-20201004.1353/faust-mode.el  -*- no-byte-compile: t -*-
+(define-package "faust-mode" "20201004.1353" "Faust syntax colorizer for Emacs." 'nil :commit "2a56cda14b152d5471f21a5d82f23c141dc7134c" :authors '(("rukano" . "rukano@gmail.com")) :maintainer '("Yassin Philip" . "xaccrocheur@gmail.com") :keywords '("languages" "faust") :url "https://github.com/rukano/emacs-faust-mode")

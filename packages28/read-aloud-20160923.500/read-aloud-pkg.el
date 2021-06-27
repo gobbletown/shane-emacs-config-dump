@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/read-aloud-20160923.500/read-aloud.el  -*- no-byte-compile: t -*-
+(define-package "read-aloud" "20160923.500" "A simple interface to TTS engines" '((emacs "24.4")) :commit "c662366226abfb07204ab442b4f853ed85438d8a" :authors '(("Alexander Gromnitsky" . "alexander.gromnitsky@gmail.com")) :maintainer '("Alexander Gromnitsky" . "alexander.gromnitsky@gmail.com") :keywords '("multimedia") :url "https://github.com/gromnitsky/read-aloud.el")

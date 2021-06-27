@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/dictcc-20200421.1422/dictcc.el  -*- no-byte-compile: t -*-
+(define-package "dictcc" "20200421.1422" "Look up translations on dict.cc" '((emacs "24.4") (cl-lib "0.5") (ivy "0.10.0")) :commit "3950011197ba81f27cc82b4e6075c9100945f936" :authors '(("Marten Lienen" . "marten.lienen@gmail.com")) :maintainer '("Marten Lienen" . "marten.lienen@gmail.com") :keywords '("convenience"))

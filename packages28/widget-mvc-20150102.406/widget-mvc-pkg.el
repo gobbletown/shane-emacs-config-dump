@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/widget-mvc-20150102.406/widget-mvc.el  -*- no-byte-compile: t -*-
+(define-package "widget-mvc" "20150102.406" "MVC framework for the emacs widgets" 'nil :commit "ff5a85880df7b87f9f480fe3c28438a0712b7b87" :authors '(("SAKURAI Masashi <m.sakurai at kiwanami.net>")) :maintainer '("SAKURAI Masashi <m.sakurai at kiwanami.net>") :keywords '("lisp" "widget"))

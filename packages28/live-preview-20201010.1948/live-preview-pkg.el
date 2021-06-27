@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/live-preview-20201010.1948/live-preview.el  -*- no-byte-compile: t -*-
+(define-package "live-preview" "20201010.1948" "Live preview by any shell command while editing" '((emacs "24.4")) :commit "603a4a1759fbec92e7a1cabc249517c78e59ce7e" :authors '(("Lassi Kortela" . "lassi@lassi.io")) :maintainer '("Lassi Kortela" . "lassi@lassi.io") :keywords '("languages" "util") :url "https://github.com/lassik/emacs-live-preview")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/consult-recoll-20210411.1300/consult-recoll.el  -*- no-byte-compile: t -*-
+(define-package "consult-recoll" "20210411.1300" "Recoll queries using consult" '((emacs "26.1") (consult "0.5")) :commit "9038cfa4222f428e28bdafa0aeb57362104a873d" :authors '(("Jose A Ortega Ruiz" . "jao@gnu.org")) :maintainer '("Jose A Ortega Ruiz") :keywords '("docs" "convenience") :url "https://codeberg.org/jao/consult-recoll")

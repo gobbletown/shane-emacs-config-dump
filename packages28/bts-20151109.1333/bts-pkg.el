@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/bts-20151109.1333/bts.el  -*- no-byte-compile: t -*-
+(define-package "bts" "20151109.1333" "A unified UI for various bug tracking systems" '((widget-mvc "0.0.2") (log4e "0.3.0") (yaxception "0.3.3") (dash "2.9.0") (s "1.9.0") (pos-tip "0.4.5")) :commit "df42d58a36447697f93b56e69f5e700b2baef1f9" :authors '(("Hiroaki Otsu" . "ootsuhiroaki@gmail.com")) :maintainer '("Hiroaki Otsu" . "ootsuhiroaki@gmail.com") :keywords '("convenience") :url "https://github.com/aki2o/emacs-bts")

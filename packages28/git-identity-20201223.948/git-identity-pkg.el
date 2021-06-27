@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/git-identity-20201223.948/git-identity.el  -*- no-byte-compile: t -*-
+(define-package "git-identity" "20201223.948" "Identity management for (ma)git" '((emacs "25.1") (dash "2.10") (hydra "0.14") (f "0.20")) :commit "1c35e1693bbb7de41a8aac820a080a7299c13c17" :authors '(("Akira Komamura" . "akira.komamura@gmail.com")) :maintainer '("Akira Komamura" . "akira.komamura@gmail.com") :keywords '("git" "vc" "convenience") :url "https://github.com/akirak/git-identity.el")

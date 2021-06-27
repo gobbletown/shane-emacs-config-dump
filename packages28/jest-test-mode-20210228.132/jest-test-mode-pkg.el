@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/jest-test-mode-20210228.132/jest-test-mode.el  -*- no-byte-compile: t -*-
+(define-package "jest-test-mode" "20210228.132" "Minor mode for running Node.js tests using jest" '((emacs "25.1")) :commit "fb2bacab9475410c79e6e4ca344f093f7698466d" :authors '(("Raymond Huang" . "rymndhng@gmail.com")) :maintainer '("Raymond Huang" . "rymndhng@gmail.com") :url "https://github.com/rymndhng/jest-test-mode.el")

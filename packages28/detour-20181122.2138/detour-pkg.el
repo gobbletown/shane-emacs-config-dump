@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/detour-20181122.2138/detour.el  -*- no-byte-compile: t -*-
+(define-package "detour" "20181122.2138" "Take a quick detour and return" '((emacs "24.4")) :commit "1ff23c236e18971ed1077840daf047cde79a45ee" :authors '(("Stefan Kamphausen <www.skamphausen.de>")) :maintainer '("Stefan Kamphausen <www.skamphausen.de>") :keywords '("convenience" "abbrev") :url "https://github.com/ska2342/detour/")

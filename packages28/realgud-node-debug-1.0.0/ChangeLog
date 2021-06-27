@@ -1,0 +1,13 @@
+2019-05-21  Stefan Monnier  <monnier@iro.umontreal.ca>
+
+	* realgud-node-(debug|inspect): Author should be a valid email
+
+2019-05-20  rocky  <rocky@gnu.org>
+
+	Add 'packages/realgud-node-debug/' from commit
+	'307900d80e5ac6f0287e03f331b084b26581bbc2'
+
+	git-subtree-dir: packages/realgud-node-debug git-subtree-mainline:
+	fd217f8f3a41bc2ea77865e1f6de0b9d05d13809 git-subtree-split:
+	307900d80e5ac6f0287e03f331b084b26581bbc2
+

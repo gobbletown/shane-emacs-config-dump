@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/editorconfig-charset-extras-20180223.457/editorconfig-charset-extras.el  -*- no-byte-compile: t -*-
+(define-package "editorconfig-charset-extras" "20180223.457" "Extra EditorConfig Charset Support" '((editorconfig "0.6.0")) :commit "4f75e175ad15ce2038f926fe4f0e5a0c1d0cbc46" :authors '(("10sr" . "8.slashes@gmail.com")) :maintainer '("10sr" . "8.slashes@gmail.com") :keywords '("tools") :url "https://github.com/10sr/editorconfig-charset-extras-el")

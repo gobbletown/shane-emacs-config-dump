@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/writefreely-20190628.1606/writefreely.el  -*- no-byte-compile: t -*-
+(define-package "writefreely" "20190628.1606" "Push your Org files as markdown to a writefreely instance" '((emacs "24.3") (org-plus-contrib "9.0") (ox-gfm "0.0") (request "0.3")) :commit "83a487e48e0d8342c372deb74d04c0b43474268c" :authors '(("Daniel Gomez <d.gomez at posteo dot org>")) :maintainer '("Daniel Gomez <d.gomez at posteo dot org>") :keywords '("convenience") :url "https://github.com/dangom/writefreely.el")

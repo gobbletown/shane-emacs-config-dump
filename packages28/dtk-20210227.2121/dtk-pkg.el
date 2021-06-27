@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/dtk-20210227.2121/dtk.el  -*- no-byte-compile: t -*-
+(define-package "dtk" "20210227.2121" "access SWORD content via diatheke" '((emacs "24.4") (cl-lib "0.6.1") (dash "2.12.0") (seq "1.9") (s "1.9")) :commit "2a2a635e2b1d8243a41df0450e45fc8c75c6674b" :authors '(("David Thompson")) :maintainer '("David Thompson") :keywords '("hypermedia") :url "https://github.com/dtk01/dtk.el")

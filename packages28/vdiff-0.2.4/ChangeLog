@@ -1,0 +1,25 @@
+2020-11-03  Justin Burkett  <justin@burkett.cc>
+
+	Merge commit '007e44be19d068fd6b49874b6e9b8df8b1f552bd'
+
+2017-05-23  Justin Burkett  <justin@burkett.cc>
+
+	Merge commit '4a6f27b83ef0240c56587354277ba685d9834bc9'
+
+2017-05-20  Justin Burkett  <justin@burkett.cc>
+
+	Merge commit '857d2a42e92040a3009394da21e4d37c98d43c87'
+
+2017-05-20  Justin Burkett  <justin@burkett.cc>
+
+	Merge commit 'f55acdbfcbb14e463d0850cfd041614c7002669e'
+
+2017-05-18  Justin Burkett  <justin@burkett.cc>
+
+	Add 'packages/vdiff/' from commit
+	'0f3f249a71beaa7603a3e114dfb621d79f03539a'
+
+	git-subtree-dir: packages/vdiff git-subtree-mainline:
+	4abb4600a4bd2fef855b42af3c79cf9a0826566c git-subtree-split:
+	0f3f249a71beaa7603a3e114dfb621d79f03539a
+

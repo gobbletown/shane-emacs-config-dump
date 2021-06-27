@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/plain-org-wiki-20201217.1027/plain-org-wiki.el  -*- no-byte-compile: t -*-
+(define-package "plain-org-wiki" "20201217.1027" "Simple jump-to-org-files in a directory package" '((emacs "24.3") (ivy "0.12.0")) :commit "faeeb54ca808bbf0f4380a938e75805b7a78dbf7" :authors '(("Oleh Krehel" . "ohwoeowho@gmail.com")) :maintainer '("Oleh Krehel" . "ohwoeowho@gmail.com") :keywords '("convenience") :url "https://github.com/abo-abo/plain-org-wiki")

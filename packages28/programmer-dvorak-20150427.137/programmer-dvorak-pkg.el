@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/programmer-dvorak-20150427.137/programmer-dvorak.el  -*- no-byte-compile: t -*-
+(define-package "programmer-dvorak" "20150427.137" "Input method for Programmer Dvorak." 'nil :commit "3288a8f058eca4cab390a564babbbcb17cfa0350" :authors '(("Chenyun Yang" . "yangchenyun@gmail.com")) :maintainer '("Chenyun Yang" . "yangchenyun@gmail.com") :keywords '("dvorak" "programmer-dvorak" "input-method") :url "https://github.com/yangchenyun/programmer-dvorak")

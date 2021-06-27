@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/org-table-comment-20120209.1851/org-table-comment.el  -*- no-byte-compile: t -*-
+(define-package "org-table-comment" "20120209.1851" "Org table comment modes." 'nil :commit "33b9966c33ecbc3e27cca67c2f2cdea04364d74e" :authors '(("Matthew L. Fidler <matthew dot fidler at gmail . com>")) :maintainer '("Matthew L. Fidler") :keywords '("org-mode" "orgtbl") :url "http://github.com/mlf176f2/org-table-comment.el")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/android-env-20200722.1403/android-env.el  -*- no-byte-compile: t -*-
+(define-package "android-env" "20200722.1403" "Helper functions for working in android" '((emacs "24.3")) :commit "5c6a6d9449f300eec4f374a5410edc1cbab02e40" :authors '(("Fernando Jascovich")) :maintainer '("Fernando Jascovich") :keywords '("android" "gradle" "java" "tools" "convenience") :url "https://github.com/fernando-jascovich/android-env.el")

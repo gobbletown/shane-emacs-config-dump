@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/password-vault-20160126.1820/password-vault.el  -*- no-byte-compile: t -*-
+(define-package "password-vault" "20160126.1820" "A Password manager for Emacs." '((cl-lib "0.2") (emacs "24")) :commit "dc56e6c2f5da66f1ab63736cecf08fb2c6c2b30f" :authors '(("Javier \"PuercoPop\" Olaechea" . "pirata@gmail.com")) :maintainer '("Javier \"PuercoPop\" Olaechea" . "pirata@gmail.com") :keywords '("password" "productivity") :url "http://github.com/PuercoPop/password-vault")

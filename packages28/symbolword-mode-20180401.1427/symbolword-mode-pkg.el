@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/symbolword-mode-20180401.1427/symbolword-mode.el  -*- no-byte-compile: t -*-
+(define-package "symbolword-mode" "20180401.1427" "modify word split" '((emacs "24") (f "0.19.0")) :commit "c254ec56e83a5d9de04df0856248723cf6d4be50" :authors '(("ncaq" . "ncaq@ncaq.net")) :maintainer '("ncaq" . "ncaq@ncaq.net") :url "https://github.com/ncaq/symbolword-mode")

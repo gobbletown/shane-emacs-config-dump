@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/cyphejor-20210319.1423/cyphejor.el  -*- no-byte-compile: t -*-
+(define-package "cyphejor" "20210319.1423" "Shorten major mode names using user-defined rules" '((emacs "24.4")) :commit "cf580995f891e339a9485ba91d6cb81a2abd61e4" :authors '(("Mark Karpov" . "markkarpov92@gmail.com")) :maintainer '("Mark Karpov" . "markkarpov92@gmail.com") :keywords '("mode-line" "major-mode") :url "https://github.com/mrkkrp/cyphejor")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/ox-bb-20210222.2002/ox-bb.el  -*- no-byte-compile: t -*-
+(define-package "ox-bb" "20210222.2002" "BBCode Back-End for Org Export Engine" '((emacs "24.4") (org "8.0")) :commit "a79dc519cd28c000ebca4254a4744ce2b9b82168" :authors '(("Christian Garbs" . "mitch@cgarbs.de")) :maintainer '("Christian Garbs" . "mitch@cgarbs.de") :keywords '("bbcode" "org" "export" "outlines") :url "https://github.com/mmitch/ox-bb")

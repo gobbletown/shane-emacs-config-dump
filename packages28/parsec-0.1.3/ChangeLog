@@ -1,0 +1,17 @@
+2016-10-27  Junpeng Qiu	 <qjpchmail@gmail.com>
+
+	Merge commit '21f5a11' from GitHub
+
+2016-10-27  Stefan Monnier  <monnier@iro.umontreal.ca>
+
+	* packages/parsec: Fix up copyright headers
+
+2016-10-25  Junpeng Qiu	 <qjpchmail@gmail.com>
+
+	Add 'packages/parsec/' from commit
+	'8f0c266d8b9b0ee5fcf9b80c518644b2849ff3b3'
+
+	git-subtree-dir: packages/parsec git-subtree-mainline:
+	2e9f9625a954d88356fce440c19bec104a6734a2 git-subtree-split:
+	8f0c266d8b9b0ee5fcf9b80c518644b2849ff3b3
+

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/rdf-prefix-20200216.914/rdf-prefix.el  -*- no-byte-compile: t -*-
+(define-package "rdf-prefix" "20200216.914" "Prefix lookup for RDF" 'nil :commit "825af2c584fbad9e67c2c08e29040776fa647fe0" :authors '(("Simen Heggestøyl" . "simenheg@gmail.com")) :maintainer '("Simen Heggestøyl" . "simenheg@gmail.com") :keywords '("convenience" "abbrev") :url "https://github.com/simenheg/rdf-prefix")

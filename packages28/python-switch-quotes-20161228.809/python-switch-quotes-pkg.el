@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/python-switch-quotes-20161228.809/python-switch-quotes.el  -*- no-byte-compile: t -*-
+(define-package "python-switch-quotes" "20161228.809" "cycle between ' and \" quotes in python strings" '((emacs "24.3")) :commit "93f1e9b40e061a6cea480139e8b1362b6404abd0" :authors '(("Vladimir Lagunov" . "lagunov.vladimir@gmail.com")) :maintainer '("Vladimir Lagunov" . "lagunov.vladimir@gmail.com") :keywords '("python" "tools" "convenience") :url "https://github.com/werehuman/python-switch-quotes")

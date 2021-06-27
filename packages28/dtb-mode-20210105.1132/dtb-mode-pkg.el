@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/dtb-mode-20210105.1132/dtb-mode.el  -*- no-byte-compile: t -*-
+(define-package "dtb-mode" "20210105.1132" "Show device tree souce in dtbs" '((emacs "25")) :commit "7f66de945a0be2be5a26b4619cae097288fb55cd" :authors '(("Schspa Shi" . "schspa@gmail.com")) :maintainer '("Schspa Shi" . "schspa@gmail.com") :keywords '("dtb" "dts" "convenience") :url "https://github.com/schspa/dtb-mode")

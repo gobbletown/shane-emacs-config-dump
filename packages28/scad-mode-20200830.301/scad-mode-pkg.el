@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/scad-mode-20200830.301/scad-mode.el  -*- no-byte-compile: t -*-
+(define-package "scad-mode" "20200830.301" "A major mode for editing OpenSCAD code" 'nil :commit "df36a1e61b90dd7f3786f37f791bc92dd794e612" :authors '(("Len Trigg, Łukasz Stelmach")) :maintainer '("Len Trigg" . "lenbok@gmail.com") :keywords '("languages") :url "https://raw.github.com/openscad/openscad/master/contrib/scad-mode.el")

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/whitespace-cleanup-mode-20200304.2227/whitespace-cleanup-mode.el  -*- no-byte-compile: t -*-
+(define-package "whitespace-cleanup-mode" "20200304.2227" "Intelligently call whitespace-cleanup on save" '((emacs "24.1")) :commit "c344cfd78df23980ee48fb85fbc16989b7d4cffe" :authors '(("Steve Purcell" . "steve@sanityinc.com")) :maintainer '("Steve Purcell" . "steve@sanityinc.com") :keywords '("convenience") :url "https://github.com/purcell/whitespace-cleanup-mode")

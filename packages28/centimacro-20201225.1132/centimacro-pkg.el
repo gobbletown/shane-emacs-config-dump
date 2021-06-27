@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/centimacro-20201225.1132/centimacro.el  -*- no-byte-compile: t -*-
+(define-package "centimacro" "20201225.1132" "Assign multiple macros as global key bindings" 'nil :commit "0149877584b333c4f1953f0767f0cae23881b0df" :authors '(("Oleh Krehel" . "ohwoeowho@gmail.com")) :maintainer '("Oleh Krehel" . "ohwoeowho@gmail.com") :keywords '("macros") :url "https://github.com/abo-abo/centimacro")

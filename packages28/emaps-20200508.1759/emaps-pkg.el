@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/emaps-20200508.1759/emaps.el  -*- no-byte-compile: t -*-
+(define-package "emaps" "20200508.1759" "Utilities for working with keymaps" '((dash "2.17.0") (emacs "24")) :commit "7c561f3ded2015ed3774e5784059d6601082743e" :authors '(("Ben Moon" . "software@guiltydolphin.com")) :maintainer '("Ben Moon" . "software@guiltydolphin.com") :keywords '("convenience" "keyboard" "keymap" "utility") :url "https://github.com/GuiltyDolphin/emaps")

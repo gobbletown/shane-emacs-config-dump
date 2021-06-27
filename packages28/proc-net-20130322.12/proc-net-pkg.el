@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/proc-net-20130322.12/proc-net.el  -*- no-byte-compile: t -*-
+(define-package "proc-net" "20130322.12" "network process tools" 'nil :commit "10861112a1f3994c8e6374d6c5bb5d734cfeaf73" :authors '(("Nic Ferrier" . "nferrier@ferrier.me.uk")) :maintainer '("Nic Ferrier" . "nferrier@ferrier.me.uk") :keywords '("processes") :url "http://github.com/nicferrier/emacs-procnet")

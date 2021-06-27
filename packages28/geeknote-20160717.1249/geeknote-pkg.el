@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/geeknote-20160717.1249/geeknote.el  -*- no-byte-compile: t -*-
+(define-package "geeknote" "20160717.1249" "Use Evernote in Emacs through geeknote" '((emacs "24")) :commit "8ed607c76864afcc9c338972ab093caf4501cbf8" :authors '(("Evan Dale Aromin")) :maintainer '("Evan Dale Aromin") :keywords '("evernote" "geeknote" "note" "emacs-evernote" "evernote-mode") :url "http://github.com/avendael/emacs-geeknote")

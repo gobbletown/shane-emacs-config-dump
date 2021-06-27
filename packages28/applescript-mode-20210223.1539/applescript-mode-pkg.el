@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/applescript-mode-20210223.1539/applescript-mode.el  -*- no-byte-compile: t -*-
+(define-package "applescript-mode" "20210223.1539" "major mode for editing AppleScript source" '((emacs "24.3")) :commit "a45c426b7e4a450faea004ef5b842fd37e17a7c6" :authors '(("sakito" . "sakito@users.sourceforge.jp")) :maintainer '("sakito" . "sakito@users.sourceforge.jp") :keywords '("languages" "tools") :url "https://github.com/emacsorphanage/applescript-mode")

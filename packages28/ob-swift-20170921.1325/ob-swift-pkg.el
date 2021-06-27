@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/ob-swift-20170921.1325/ob-swift.el  -*- no-byte-compile: t -*-
+(define-package "ob-swift" "20170921.1325" "org-babel functions for swift evaluation" '((org-plus-contrib "8")) :commit "ed478ddbbe41ce5373efde06b4dd0c3663c9055f" :authors '(("Feng Zhou" . "zf.pascal@gmail.com")) :maintainer '("Feng Zhou" . "zf.pascal@gmail.com") :keywords '("org" "babel" "swift") :url "http://github.com/zweifisch/ob-swift")

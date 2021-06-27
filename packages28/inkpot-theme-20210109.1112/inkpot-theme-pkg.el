@@ -1,0 +1,2 @@
+;;; Generated package description from /home/shane/source/git/spacemacs/packages28/inkpot-theme-20210109.1112/inkpot-theme.el  -*- no-byte-compile: t -*-
+(define-package "inkpot-theme" "20210109.1112" "port of vim's inkpot theme" 'nil :commit "e8ae7b2345b8b21dd866fc043906ceecd40832c7" :authors '(("Sarah Iovan" . "sarah@hwaetageek.com") ("Campbell Barton" . "ideasman42@gmail.com")) :maintainer '("Sarah Iovan" . "sarah@hwaetageek.com") :keywords '("color" "theme") :url "https://gitlab.com/ideasman42/emacs-inkpot-theme")
